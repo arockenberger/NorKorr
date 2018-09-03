@@ -150,6 +150,7 @@ pr 1/8-2018
 
 ### Brevutgivelser NSL/bokselskap.no
 pr 1/8-2018
+
 | FRA | TIL | ÅR | PUBLISERT |
 |---|---|---|---|
 |Bjørnson, Bjørnstjerne|Div. danske mottakere (ca 400 brev)|1854-1874|NSL/bokselskap.no 2010|
@@ -188,6 +189,6 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODc2OTAyMSwtMjA1OTg3MjcwOSwtMT
+eyJoaXN0b3J5IjpbLTgwNjczODcwOSwtMjA1OTg3MjcwOSwtMT
 Q1MjEzNzk1NSwtMTIxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
 -->

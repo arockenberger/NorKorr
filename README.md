@@ -118,7 +118,8 @@ Dumont, S. (2016). correspSearch - A Web Service to Connect Diverse Scholarly Ed
 
 ## Appendix 1
 
-### Brev-utgivelser i NB kilder pr 1/8-2018
+### Brev-utgivelser i NB kilder
+pr 1/8-2018
 
 | FRA | TIL | ÅR | PUBLISERT |
 |---|---|---|---|
@@ -147,49 +148,15 @@ Dumont, S. (2016). correspSearch - A Web Service to Connect Diverse Scholarly Ed
 
 · Korrespondansen mellom Kitty Kielland og Eilif Peterssen, forventet publisering: 2019(?)
 
-### Brevutgivelser NSL/bokselskap.nopr 1/8-2018
-
-FRA
-
-TIL
-
-ÅR
-
-PUBLISERT
-
-Bjørnson, Bjørnstjerne
-
-Div. danske mottakere (ca 400 brev)
-
-1854-1874
-
-NSL/bokselskap.no 2010
-
-Brandes, Georg
-
-Thoresen, Magdalene
-
-1865-1899
-
-NSL/bokselskap.no 2015
-
-Ibsen, Henrik
-
-Bjørnson, Bjørnstjerne
-
-1864-1898
-
-HIS/bokselskap.no 2014
-
-Ibsen, Henrik
-
-Collett, Camilla
-
-1877-1893
-
-HIS/bokselskap.no 2013
-
-Ibsen, Henrik
+### Brevutgivelser NSL/bokselskap.no
+pr 1/8-2018
+|FRA|TIL|ÅR|PUBLISERT|
+|---|---|---|---|
+|Bjørnson, Bjørnstjerne|Div. danske mottakere (ca 400 brev)|1854-1874|NSL/bokselskap.no 2010|
+|Brandes, Georg|Thoresen, Magdalene|1865-1899|NSL/bokselskap.no 2015|
+|Ibsen, Henrik|Bjørnson, Bjørnstjerne|1864-1898|HIS/bokselskap.no 2014|
+|Ibsen, Henrik|Collett, Camilla|1877-1893|HIS/bokselskap.no 2013|
+|Ibsen, Henrik
 
 Lie, Jonas
 
@@ -269,6 +236,6 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTcxNDgyNywtMTQ1MjEzNzk1NSwtMT
+eyJoaXN0b3J5IjpbLTgyODAyODgzOSwtMTQ1MjEzNzk1NSwtMT
 IxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
 -->

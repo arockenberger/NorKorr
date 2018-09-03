@@ -66,8 +66,8 @@ We will take a close look at our materials (digital editions of Norwegian corres
 #### Materials to depart from
 -   [NB-kilder](https://www.nb.no/forskning/nb-kilder/)
 -   [Ibsen skrifter](http://ibsen.uio.no/brev.xhtml)
--   Munch tekster
--   Qvigstad brev (started as a project of EDD/UiO [http://www.dokpro.uio.no/qvigstad/](http://www.dokpro.uio.no/qvigstad/), now at UiT/NB)
+-   [Munch tekster](https://www.emunch.no/english.xhtml)
+-   [Qvigstad brev](https://www.dokpro.uio.no/qvigstad/ombrev.html) (started as a project of EDD/UiO [http://www.dokpro.uio.no/qvigstad/](http://www.dokpro.uio.no/qvigstad/), now at UiT/NB)
 -   Bokselskap.no
 
 Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch standard and (3) assign tasks to the participants.
@@ -229,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzAxODk2MCwxMDgyNzkzNzA5LC04MD
+eyJoaXN0b3J5IjpbMTk5Nzg3MzUyMywxMDgyNzkzNzA5LC04MD
 Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
 NDU2MDcsLTI4MjY1ODQ5M119
 -->

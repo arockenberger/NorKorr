@@ -51,16 +51,17 @@ We will take a close look at our materials (digital editions of Norwegian corres
 	 - Image (scan)
  -  metadata format and coverage
 	 - authority data for person & place names, ISO standard for dates
-	 - [http://viaf.org/](http://viaf.org/) (NB is member)[https://en.wikipedia.org/wiki/Virtual_International_Authority_File](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)
-7.  [https://www.geonames.org/](https://www.geonames.org/)
-8.  [https://www.iso.org/iso-8601-date-and-time-format.html](https://www.iso.org/iso-8601-date-and-time-format.html)
-9.  licences (aka copyright, other limitations)
-10.  …
-11.  Content
-12.  persons (who)
-13.  periods
-14.  scope (part, whole, selection etc.)
-16.  Time and Budget
+	 - [http://viaf.org/](http://viaf.org/) (NB is member
+	 - [https://en.wikipedia.org/wiki/Virtual_International_Authority_File](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)
+	 - [https://www.geonames.org/](https://www.geonames.org/)
+	 - [https://www.iso.org/iso-8601-date-and-time-format.html](https://www.iso.org/iso-8601-date-and-time-format.html)
+	 - licences (aka copyright, other limitations)
+	 - …
+ - Content
+	 - persons (who)
+	 - periods
+	 - scope (part, whole, selection etc.)
+ - Time and Budget
 
 #### Possible materials to depart from could be
 -   NB-kilder
@@ -228,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYzNDYzMzUsMTA4Mjc5MzcwOSwtOD
-A2NzM4NzA5LC0yMDU5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5
-NDQ1NjA3LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbLTg5NjEwNTAzNiwxMDgyNzkzNzA5LC04MD
+Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
+NDU2MDcsLTI4MjY1ODQ5M119
 -->

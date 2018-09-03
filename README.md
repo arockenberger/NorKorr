@@ -76,6 +76,57 @@ We will take a close look at our materials (digital editions of Norwegian corres
 Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch standard and (3) assign tasks to the participants.
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
+### Step 2: NorKor to CorrespSearch
+
+The participants (who want to) prepare a conference paper and a research article about the workflow (material, data formats, distributed hosting, transformations etc.) for NorKor as an example of preparing large distributed heterogeneous metadata sets for ingestion into CorrespSearch. They explore the potential of such an endeavour and discuss advantages (and challenges) of using decentralized infrastructure and third-party solutions with regards to Norwegian cultural heritage institution’s scrope and policies. The workflow is supposed to serve as a basis for further editions of Norwegian correspondences and should stand as an example of re-use of digital data (and especially metadata) provided by large institutions of cultural heritage and research, especially in the Nordic countries.
+
+The paper is to be given at the TEI2019 International Conference in Graz/Austria in September 2019. Alternatively (or additionally), the paper could be given at one of the DH conferences (DHN2019 in early March, DHd2019 in late March, DH2019 in July) or at conferences for edition philology (NNE2019 in September or AG-Edition in February 2020) or Historical Network Research (HNR2019 tba).
+
+The article should be an edited and polished version of the paper and published soon after delivering the paper (aim: 2020, open access journal, international).
+
+
+
+## Step 3: NorKor at NB - The Catalogue Data from the Private Archives and Automatic Correspondence Metadata Extraction from Bokhylla.no
+
+This part of the project is tentative. It shall show the potential of the physical and digital collections of the National Library of Norway, especially in regards to exploiting digital humanities methods in metadata and text mining.
+
+### Private Archives / HANSKE
+
+Via nb.no/nbsok using the search phrase “brev -indulgens” yields 14.824 letters in the holdings of the Private Archives that have been digitized. These should be combed through to select all that are not correspondences or letters. Of the remaining, the letters have to be matched with DSEs in NB-kilder and Bokselskap.no as well as the digitized scholarly editions of letters in bokhylla.no. They can be used as facsimile or alternative presentations where copyright of scholarly editions prevents external access. The metadata of these letters could be extracted and matched with the CIMF standard.
+
+### Hvem-til-hvem
+
+As of XXXX, metadata for correspondences in the holdings of the Private Archive are stored in HANSKE (Manuscript Catalogue, [https://www.nb.no/hanske/](https://www.nb.no/hanske/) ) which in the course of being phased out and replaced by ZZ.. Some of the correspondence metadata in the archive have previously been extracted for searching for correspondence partners and dates. There’s a website providing access to a tool (BETA version) where users can type in person names or years and get a list of results from which they can navigate onwards: [https://www.nb.no/hanske/brev/](https://www.nb.no/hanske/brev/) . The service has been developed by Torstein Tjelta (NB).
+
+Tasks:
+
+-   Take a look at the catalogue data and materials and sketch a workflow for making them compatible with the CMIF-Standard used by CorrespSearch
+    
+-   Take a look at database behind “Hvem skrev til hvem” and decide if and how to extract data and transform to CMIF-Standard
+    
+-   How is correspondence metadata stored today and in the future and how can it be easily fed into CorrespSearch, granted this is wanted by NB
+    
+
+### Bokhylla.no
+
+The digitisation efforts of the NB provide an enormous amount of textual data. Included in this are Norwegian scholarly editions of correspondences that formerly were printed and now have been digitized in full text (OCR). In order to complete the NorKor metadata set, first a selection of scholarly editions of Norwegian correspondences has to be made. Then, from the text of the editions, correspondence metadata has to be (semi-)automatically extracted, stored, and transformed into a CMIF compliant format to be ingested into CorrespSearch.
+
+This is an endeavour of considerable complexity and size and requires expert knowledge in information retrieval from plain text. At this stage, it should be seen as an experiment in retrieving specific textual data from a large collection of text without too much manual interference. The results of this experiment could be presented as a paper or article in the future and the workflow and code could be published (on GitHub) for re-use on other full-text collections that contain flat encoded texts (aka plain text).
+
+A list of URNs of digitized scholarly editions of correspondences and letters will be created (by AR) and the raw OCR files will be extracted from bokhylla.no by LJ. The corpus will then be divided into materials that are in the public domain and such that are still under copyright protection. For the letters still under copyright protection, no full-text can be shown outside of the NB, however, amount of words, word lists and topic models can be extracted that should allow for ‘distant reading’ of these letters.
+
+### Aims
+
+The aims for the two subprojects in Step 3 are:
+
+-   meaningful re-use of a tool/service developed by NB (HANSKE / Hvem skrev til hvem)
+    
+-   accessibility of correspondence metadata that hasn’t been edited yet (or won’t ever be)
+    
+-   targeted retrieval of specific data (correspondence metadata from digitized scholarly editions) from bokhylla.no showing the potential of the digital collection even though it is flat encoded
+    
+-   large scale show case for “distant reading the network of Norwegian correspondence”
+- 
 ## Bibliography
 
 ### Links
@@ -189,6 +240,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjczODcwOSwtMjA1OTg3MjcwOSwtMT
-Q1MjEzNzk1NSwtMTIxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbMTI5NzExMzA5LC04MDY3Mzg3MDksLTIwNT
+k4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0NDU2MDcsLTI4MjY1
+ODQ5M119
 -->

@@ -122,62 +122,15 @@ Dumont, S. (2016). correspSearch - A Web Service to Connect Diverse Scholarly Ed
 
 | FRA | TIL | ÅR | PUBLISERT |
 |---|---|---|---|
-
 |Collett, Camilla| Bjørnson, Bjørnstjerne| 1867|NB kilder 2:2/2015|
-|Collett, Camilla|Collett, Johan Christian|1849
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Collett, Peter Jonas
-
-1841-1851
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Didriks, Emilie
-
-1841-1842
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Herre, Johanne Caroline
-
-1830
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Herre, Marie Emilie
-
-1830
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Ibsen, Henrik
-
-1872-1889
-
-NB kilder 2:1/2014
-
-Collett, Camilla
-
-Ibsen, Susanna
-
-1872-1894
-
-NB kilder 2:1/2014
-
-Collett, Camilla
-
-Lie, Jonas
+|Collett, Camilla|Collett, Johan Christian|1849|NB kilder 2:4/2018|
+|Collett, Camilla|Collett, Peter Jonas|1841-1851|NB kilder 2:4/2018|
+|Collett, Camilla|Didriks, Emilie|1841-1842|NB kilder 2:4/2018|
+|Collett, Camilla|Herre, Johanne Caroline|1830|NB kilder 2:4/2018|
+|Collett, Camilla|Herre, Marie Emilie|1830|NB kilder 2:4/2018|
+|Collett, Camilla|Ibsen, Henrik|1872-1889|NB kilder 2:1/2014|
+|Collett, Camilla|Ibsen, Susanna|1872-1894|NB kilder 2:1/2014|
+|Collett, Camilla|Lie, Jonas
 
 1863-1884
 
@@ -355,6 +308,6 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTIwODM4MywtMTQ1MjEzNzk1NSwtMT
-IxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbLTE2MTE3MTY5MTEsLTE0NTIxMzc5NTUsLT
+EyMTk0NDU2MDcsLTI4MjY1ODQ5M119
 -->

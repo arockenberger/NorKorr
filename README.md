@@ -181,16 +181,16 @@ Status: 1/8-2018
 
 ### Planned Digital Editions of Letters in NB-kilder
 
-· Correspondence between Kitty Kielland and Arne Garborg, shal b 2018
+· Correspondence between Kitty Kielland and Arne Garborg, shall be published in 2018
 
-· Brev fra Sumatra (Jacob Iversen m.fl.), forventet publisering: 2018
+· Letters from Sumatra (Jacob Iversen et al.), shall be published in 2018
 
-· Brev fra Just Qvigstad, forventet publisering: 2019
+· Letters by Just Qvigstad, shall be published in 2019
 
-· Korrespondansen mellom Kitty Kielland og Eilif Peterssen, forventet publisering: 2019(?)
+· Correspondence between Kitty Kielland and Eilif Peterssen, shall be published in 2019(?)
 
-### Brevutgivelser NSL/bokselskap.no
-pr 1/8-2018
+### Digital Editions of Letters in NSL/bokselskap.no
+Status: 1/8-2018
 
 | FRA | TIL | ÅR | PUBLISERT |
 |---|---|---|---|
@@ -208,7 +208,7 @@ pr 1/8-2018
 
 ## Appendix 2
 
-### Zotero group library
+### Zotero Group library
 
 for scholarly editions of letters and correspondences in the hold of NB
 
@@ -230,7 +230,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDgzOTc3NywxMDgyNzkzNzA5LC04MD
+eyJoaXN0b3J5IjpbMTA0NzM3NjExMCwxMDgyNzkzNzA5LC04MD
 Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
 NDU2MDcsLTI4MjY1ODQ5M119
 -->

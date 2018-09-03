@@ -130,51 +130,12 @@ Dumont, S. (2016). correspSearch - A Web Service to Connect Diverse Scholarly Ed
 |Collett, Camilla|Herre, Marie Emilie|1830|NB kilder 2:4/2018|
 |Collett, Camilla|Ibsen, Henrik|1872-1889|NB kilder 2:1/2014|
 |Collett, Camilla|Ibsen, Susanna|1872-1894|NB kilder 2:1/2014|
-|Collett, Camilla|Lie, Jonas
-
-1863-1884
-
-NB kilder 2:3/2016
-
-Collett, Camilla
-
-Petersen, Emma
-
-1839
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Wergeland, Amalie Sofie
-
-1839
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Wergeland, Laura Augusta
-
-1846
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Wergeland, Nicolai
-
-1841-1844
-
-NB kilder 2:4/2018
-
-Collett, Camilla
-
-Wergeland, Oscar
-
-1844
-
-NB kilder 2:4/2018
+|Collett, Camilla|Lie, Jonas|1863-1884|NB kilder 2:3/2016|
+|Collett, Camilla|Petersen, Emma|1839|NB kilder 2:4/2018|
+|Collett, Camilla|Wergeland, Amalie Sofie|1839|NB kilder 2:4/2018|
+|Collett, Camilla|Wergeland, Laura Augusta|1846|NB kilder 2:4/2018|
+|Collett, Camilla|Wergeland, Nicolai|1841-1844|NB kilder 2:4/2018|
+|Collett, Camilla|Wergeland, Oscar|1844|NB kilder 2:4/2018|
 
 ### Planlagte brev-utgivelser i NB kilder
 
@@ -186,7 +147,7 @@ NB kilder 2:4/2018
 
 · Korrespondansen mellom Kitty Kielland og Eilif Peterssen, forventet publisering: 2019(?)
 
-### Brevutgivelser NSL/bokselskap.no pr 1/8-2018
+### Brevutgivelser NSL/bokselskap.nopr 1/8-2018
 
 FRA
 
@@ -308,6 +269,6 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE3MTY5MTEsLTE0NTIxMzc5NTUsLT
-EyMTk0NDU2MDcsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbMTM4OTcxNDgyNywtMTQ1MjEzNzk1NSwtMT
+IxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
 -->

@@ -32,6 +32,7 @@ The project participants meet IRL at NB for a one-day workshop (aka hackathon) i
 #### Schedule for the workshop in week 38
 
 | Tid | Tema |
+|------|------|
 | 10.00 – 10.45 | Velkomst og introduksjon til NorKorr-prosjektet |
 | 10.45 – 11.00  | Pause |
 | 11.30 – 13.00 | Lage oversikt: Brev og korrespondanser i våre samlinger |
@@ -371,5 +372,6 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk0NDU2MDcsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbLTE0NTIxMzc5NTUsLTEyMTk0NDU2MDcsLT
+I4MjY1ODQ5M119
 -->

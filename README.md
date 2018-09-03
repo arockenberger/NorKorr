@@ -80,7 +80,7 @@ A brief but precise description of (1) will be done, including a list of authors
 
 The participants prepare a conference paper and a research article about the workflow (material, data formats, distributed hosting, transformations etc.) for NorKor as an example of preparing large distributed heterogeneous metadata sets for ingestion into CorrespSearch. They explore the potential of such an endeavour and discuss advantages (and challenges) of using decentralized infrastructure and third-party solutions with regards to Norwegian cultural heritage institution’s scrope and policies. The workflow is supposed to serve as a basis for further editions of Norwegian correspondences and should stand as an example of re-use of digital data (and especially metadata) provided by large institutions of cultural heritage and research, especially in the Nordic countries.
 
-The paper is to be given at the TEI2019 International Conference in Graz/Austria in September 2019. Alternatively (or additionally), the paper could be given at one of the DH conferences (DHN2019 in early March, DHd2019 in late March, DH2019 in July) or at conferences for edition philology (NNE2019 in September or AG-Edition in February 2020) or Historical Network Research (HNR2019 tba).
+The paper could be presented at the TEI2019 International Conference in Graz/Austria in September 2019. Alternatively (or additionally), the paper could be given at one of the DH conferences (DHN2019 in early March, DHd2019 in late March, DH2019 in July) or at conferences for edition philology (NNE2019 in September or AG-Edition in February 2020) or Historical Network Research (HNR2019 tba).
 
 The article should be an edited and polished version of the paper and published soon after delivering the paper (aim: 2020, open access journal, international).
 
@@ -232,7 +232,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3ODUzODUwLC04MDY3Mzg3MDksLTIwNT
-k4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0NDU2MDcsLTI4MjY1
-ODQ5M119
+eyJoaXN0b3J5IjpbMTA4Mjc5MzcwOSwtODA2NzM4NzA5LC0yMD
+U5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5NDQ1NjA3LC0yODI2
+NTg0OTNdfQ==
 -->

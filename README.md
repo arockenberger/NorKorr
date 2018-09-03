@@ -24,12 +24,17 @@ Hilde Bøe (Munch Museet)
 
 Philipp Conzett (UiT)
 
-
-## Step 1: Examination of Materials
+## Implementation
+### Step 1: Examination of Materials
 
 The project participants meet IRL at NB for a one-day workshop (aka hackathon) in week 38.
 
-### Schedule for the workshop in week 38
+#### Schedule for the workshop in week 38
+
+|  |  |
+|--|--|
+|  |  |
+
 
 Tid
 
@@ -169,5 +174,5 @@ Goal of the workshop is to come up with (1) an overview of digital editions of c
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Nzg2ODY3NywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbMTI3NDk0MjE0OSwtMjgyNjU4NDkzXX0=
 -->

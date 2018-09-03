@@ -7,22 +7,19 @@ The project **Norwegian Correspondences** (NorKorr) aims to link these individua
 
 ## Aims
 
-The aim of the NorKorr project is to aggregate and provide correspondence metadata from Norwegian editions of correspondences from different projects, institutions and collections in a format that can be ingested by CorrespSearch. The final products are a large set of metadata for Norwegian correspondences under a Creative Commons licence in the CMIF (Correspondence Metadata Interchange Format) standard and an open workflow for (semi-)automatically creating and delivering CMIF-compliant correspondence metadata from future editions prepared by or hosted by the National Library of Norway (and other institutions) to the CorrespSearch web service.
+The aim of the NorKorr project is to aggregate and provide correspondence metadata from Norwegian editions of correspondences from different projects, institutions and collections in a format that can be ingested by CorrespSearch. The final products are a large set of metadata for Norwegian correspondences under a Creative Commons licence in the CMIF ([Correspondence Metadata Interchange Format](https://github.com/TEI-Correspondence-SIG/CMIF)) standard and an open workflow for (semi-)automatically creating and delivering CMIF-compliant correspondence metadata from future editions prepared by or hosted by the National Library of Norway (and other institutions) to the CorrespSearch web service.
 ## Participants
 
 ### National Library
 
-Ellen Wiger (NB, NSL)
-
-Mette Witting (NB)
-
-Annika Rockenberger (NB)
+Ellen Wiger
+Mette Witting
+Annika Rockenberger
 
 ### Other Norwegian Institutions
 
-Hilde Bøe (Munch Museet)
-
-Philipp Conzett (UiT)
+Hilde Bøe (Munch Museum)
+Philipp Conzett (Arctic University of Tromsø, University )
 
 ## Implementation
 ### Step 1: Examination of Materials
@@ -232,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzUwMjU5NSwxMDgyNzkzNzA5LC04MD
-Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
-NDU2MDcsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbLTE3MzQ5NTQ2NjIsMTA4Mjc5MzcwOSwtOD
+A2NzM4NzA5LC0yMDU5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5
+NDQ1NjA3LC0yODI2NTg0OTNdfQ==
 -->

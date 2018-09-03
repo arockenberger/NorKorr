@@ -159,8 +159,8 @@ Dumont, S. (2016). correspSearch - A Web Service to Connect Diverse Scholarly Ed
 
 ## Appendix 1
 
-### Brev-utgivelser i NB kilder
-pr 1/8-2018
+### Digital Editions of Letters in NB-kilder
+Status: 1/8-2018
 
 | FRA | TIL | ÅR | PUBLISERT |
 |---|---|---|---|
@@ -179,9 +179,9 @@ pr 1/8-2018
 |Collett, Camilla|Wergeland, Nicolai|1841-1844|NB kilder 2:4/2018|
 |Collett, Camilla|Wergeland, Oscar|1844|NB kilder 2:4/2018|
 
-### Planlagte brev-utgivelser i NB kilder
+### Planned Digital Editions of Letters in NB-kilder
 
-· Korrespondansen mellom Kitty Kielland og Arne Garborg, forventet publisering: 2018
+· Correspondence between Kitty Kielland and Arne Garborg, shal b 2018
 
 · Brev fra Sumatra (Jacob Iversen m.fl.), forventet publisering: 2018
 
@@ -230,7 +230,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzNjU5NzMsMTA4Mjc5MzcwOSwtOD
-A2NzM4NzA5LC0yMDU5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5
-NDQ1NjA3LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbMTI0NDgzOTc3NywxMDgyNzkzNzA5LC04MD
+Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
+NDU2MDcsLTI4MjY1ODQ5M119
 -->

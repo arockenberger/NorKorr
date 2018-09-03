@@ -86,9 +86,9 @@ The article should be an edited and polished version of the paper and published 
 
 This part of the project is tentative. It shall show the potential of the physical and digital collections of the National Library of Norway, especially in regards to exploiting digital humanities methods in metadata and text mining.
 
-#### Correspondence Material iPrivate Archives / HANSKE
+#### Correspondence Material in the Private Archives
 
-Via nb.no/nbsok using the search phrase “brev -indulgens” yields 14.824 letters in the holdings of the Private Archives that have been digitized. These should be combed through to select all that are not correspondences or letters. Of the remaining, the letters have to be matched with DSEs in NB-kilder and Bokselskap.no as well as the digitized scholarly editions of letters in bokhylla.no. They can be used as facsimile or alternative presentations where copyright of scholarly editions prevents external access. The metadata of these letters could be extracted and matched with the CIMF standard.
+<!-- Via nb.no/nbsok using the search phrase “brev -indulgens” yields 14.824 letters in the holdings of the Private Archives that have been digitized. These should be combed through to select all that are not correspondences or letters. Of the remaining, the letters have to be matched with DSEs in NB-kilder and Bokselskap.no as well as the digitized scholarly editions of letters in bokhylla.no. They can be used as facsimile or alternative presentations where copyright of scholarly editions prevents external access. The metadata of these letters could be extracted and matched with the CIMF standard. -->
 
 #### Hvem-til-hvem
 
@@ -230,7 +230,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTk2NzEzNTAsMTA4Mjc5MzcwOSwtOD
-A2NzM4NzA5LC0yMDU5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5
-NDQ1NjA3LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbMTY5NDIxOTYxOSwxMDgyNzkzNzA5LC04MD
+Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
+NDU2MDcsLTI4MjY1ODQ5M119
 -->

@@ -156,61 +156,13 @@ pr 1/8-2018
 |Brandes, Georg|Thoresen, Magdalene|1865-1899|NSL/bokselskap.no 2015|
 |Ibsen, Henrik|Bjørnson, Bjørnstjerne|1864-1898|HIS/bokselskap.no 2014|
 |Ibsen, Henrik|Collett, Camilla|1877-1893|HIS/bokselskap.no 2013|
-|Ibsen, Henrik
-
-Lie, Jonas
-
-1879-1900
-
-HIS/bokselskap.no 2012
-
-Kielland, Alexander L.
-
-Div. mottakere (ca 1800 brev)
-
-1869-1906
-
-NSL/bokselskap.no 2010
-
-Obstfelder, Sigbjørn
-
-Div. mottakere (ca 200 brev)
-
-1884-1900
-
-NSL/bokselskap.no 2016
-
-Skram, Amalie
-
-Skram, Erik
-
-1882-1902
-
-NSL/bokselskap.no 2016
-
-Skram, Erik
-
-Skram, Amalie
-
-1882-1902
-
-NSL/bokselskap.no 2016
-
-Thoresen, Magdalene
-
-Brandes, Georg
-
-1865-1899
-
-NSL/bokselskap.no 2015
-
-Wergeland, Henrik
-
-Bekkevold, Amalie
-
-1838-1845
-
-NSL/bokselskap.no 2011
+|Ibsen, Henrik|Lie, Jonas|1879-1900|HIS/bokselskap.no 2012|
+|Kielland, Alexander L.|Div. mottakere (ca 1800 brev)|1869-1906|NSL/bokselskap.no 2010|
+|Obstfelder, Sigbjørn|Div. mottakere (ca 200 brev)|1884-1900|NSL/bokselskap.no 2016|
+|Skram, Amalie|Skram, Erik|1882-1902|NSL/bokselskap.no 2016|
+|Skram, Erik|Skram, Amalie|1882-1902|NSL/bokselskap.no 2016|
+|Thoresen, Magdalene|Brandes, Georg|1865-1899|NSL/bokselskap.no 2015|
+|Wergeland, Henrik|Bekkevold, Amalie|1838-1845|NSL/bokselskap.no 2011|
 
 ## Appendix 2
 
@@ -236,6 +188,6 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODAyODgzOSwtMTQ1MjEzNzk1NSwtMT
-IxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLT
+EyMTk0NDU2MDcsLTI4MjY1ODQ5M119
 -->

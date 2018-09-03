@@ -1,9 +1,9 @@
 # NorKorr – Norwegian Correspondences and Linked Open Data
 ## About the Project
 
-The National Library of Norway has a substantial amount of private historical correspondences in its holdings, many of which are edited and published, either in printed editions or digitally. In addition, institutions of cultural heritage, like the Munch Museum, as well as Norwegian universities, like the University of Oslo, the University of Bergen and the Arctic University of Tromsø prepare digital editions of letters and correspondences of key figures of Norwegian public and academic life. Yet, these correspondences lead a solitary existence - hidden in editions of single authors. As a dialogical genre, their full potential lies in the connection of those sending and receiving letters, postcards, and telegrams - at a specific time and from and to a specific place. Because the collections of correspondences are distributed geographically and institutionally, there rarely exist links between them, thus making research on the correspondence networks that existed in Norway, the Nordic Countries - and beyond, to Europe and the rest of the world - impossible.
+The National Library of Norway has a substantial amount of private historical correspondences in its holdings, many of which are edited and published, either in printed editions or digitally. In addition, institutions of cultural heritage, like the Munch Museum, as well as Norwegian universities, like the University of Oslo and the Arctic University of Tromsø prepare digital editions of letters and correspondences of key figures of Norwegian public and academic life. Yet, these correspondences lead a solitary existence – hidden in editions of single authors. As a dialogical genre, their full potential lies in the connection of those sending and receiving letters, postcards, and telegrams – at a specific time and from and to a specific place. Because the collections of correspondences are distributed geographically and institutionally, there rarely exist links between them, thus making research on the correspondence networks that existed in Norway, the Nordic Countries - and beyond, to Europe and the rest of the world - impossible.
 
-The project Norwegian Correspondences (NorKor) aims to link these individual correspondences not only to each other but to historical correspondences in Europe and beyond by use of the CorrespSearch web service. CorrespSearch is a web service that aggregates specific metadata from editions of correspondences. These data can be searched via the CorrespSearch website or queried via an open API. Norwegian correspondences will thus become visible as part of the greater European network of letters and allow for a macroscopic view on the correspondence networks that existed throughout the centuries.
+The project **Norwegian Correspondences** (NorKorr) aims to link these individual correspondences not only to each other but to historical correspondences in Europe and beyond by use of the CorrespSearch web service. CorrespSearch is a web service that aggregates specific metadata from editions of correspondences. These data can be searched via the CorrespSearch website or queried via an open API. Norwegian correspondences will thus become visible as part of the greater European network of letters and allow for a macroscopic view on the correspondence networks that existed throughout the centuries.
 
 ## Aims
 
@@ -232,7 +232,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjc5MzcwOSwtODA2NzM4NzA5LC0yMD
-U5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5NDQ1NjA3LC0yODI2
-NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbNjI4MjA5MTIyLDEwODI3OTM3MDksLTgwNj
+czODcwOSwtMjA1OTg3MjcwOSwtMTQ1MjEzNzk1NSwtMTIxOTQ0
+NTYwNywtMjgyNjU4NDkzXX0=
 -->

@@ -8,6 +8,21 @@ The project Norwegian Correspondences (NorKor) aims to link these individual cor
 ## Aims
 
 The aim of the NorKor project is to aggregate and provide correspondence metadata from Norwegian editions of correspondences from different projects, institutions and collections in a format that can be ingested by CorrespSearch. The final products are a large set of metadata for Norwegian correspondences under a Creative Commons licence in the CMIF (Correspondence Metadata Interchange Format) standard and an open workflow for (semi-)automatically creating and delivering CMIF-compliant correspondence metadata from future editions prepared by or hosted by the National Library of Norway (and other institutions) to the CorrespSearch web service.
+## Participants
+
+### National Library
+
+Ellen Wiger (NB, NSL)
+
+Mette Witting (NB)
+
+Annika Rockenberger (NB)
+
+### Other Norwegian Institutions
+
+Hilde Bøe (Munch Museet)
+
+Philipp Conzett (UiT)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNjI4NDk5LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbNjg0OTExOTg5LC0yODI2NTg0OTNdfQ==
 -->

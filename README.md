@@ -30,12 +30,12 @@ The project participants meet IRL at the National Library in Oslo for a one-day 
 
 | Time | Topic |
 |------|------|
-| 10.00 – 10.45 | Introduction to the project |
+| 10.00 – 10.45 | Introduction to NorKorr |
 | 10.45 – 11.00  | Break |
-| 11.30 – 13.00 | Create an overview of correspondence editions in our  |
-| 13.00 – 14.00 | Lunsj (egen regning) |
-| 14.30 – 15.45 | Skrive rapport, fordele oppgaver og veien videre |
-| 15.45 – 16.00 | Avslutning med kaffe |
+| 11.30 – 13.00 | Create an overview of correspondence editions in our collections |
+| 13.00 – 14.00 | Lunch |
+| 14.30 – 15.45 | Write a report on what we have collected, assign tasks for further work and decide on further steps |
+| 15.45 – 16.00 | Wrapping up + coffee |
 
 ### Examination of Materials
 
@@ -229,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MDE0NjE2LDEwODI3OTM3MDksLTgwNj
-czODcwOSwtMjA1OTg3MjcwOSwtMTQ1MjEzNzk1NSwtMTIxOTQ0
-NTYwNywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbLTQ1NDM4MzMxMSwxMDgyNzkzNzA5LC04MD
+Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
+NDU2MDcsLTI4MjY1ODQ5M119
 -->

@@ -53,29 +53,15 @@ We will take a close look at our materials (digital editions of Norwegian corres
 	 - Image (scan)
  -  metadata format and coverage
 	 - authority data for person & place names, ISO standard for dates
-    
-
-5.  [http://viaf.org/](http://viaf.org/) (NB is member)
-    
+5.  [http://viaf.org/](http://viaf.org/) (NB is member)  
 6.  [https://en.wikipedia.org/wiki/Virtual_International_Authority_File](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)
-    
 7.  [https://www.geonames.org/](https://www.geonames.org/)
-    
 8.  [https://www.iso.org/iso-8601-date-and-time-format.html](https://www.iso.org/iso-8601-date-and-time-format.html)
-    
-
 9.  licences (aka copyright, other limitations)
-    
 10.  …
-    
-
 11.  Content
-    
-
 12.  persons (who)
-    
 13.  periods
-    
 14.  scope (part, whole, selection etc.)
 16.  Time and Budget
 
@@ -90,5 +76,5 @@ Goal of the workshop is to come up with (1) an overview of digital editions of c
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc0NTkxMjQsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbNTc0NTc1MDQ0LC0yODI2NTg0OTNdfQ==
 -->

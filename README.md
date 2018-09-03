@@ -19,20 +19,20 @@ Annika Rockenberger
 ### Other Norwegian Institutions
 
 Hilde Bøe (Munch Museum)
-Philipp Conzett (Arctic University of Tromsø, University )
+Philipp Conzett (Arctic University of Tromsø, University Library)
 
 ## Implementation
 ### Step 1: Examination of Materials
 
-The project participants meet IRL at NB for a one-day workshop (aka hackathon) in week 38.
+The project participants meet IRL at the National Library in Oslo for a one-day workshop (aka hackathon) in September 2018.
 
-#### Schedule for the workshop in week 38
+#### Schedule for the kick-off workshop
 
-| Tid | Tema |
+| Time | Topic |
 |------|------|
-| 10.00 – 10.45 | Velkomst og introduksjon til NorKorr-prosjektet |
-| 10.45 – 11.00  | Pause |
-| 11.30 – 13.00 | Lage oversikt: Brev og korrespondanser i våre samlinger |
+| 10.00 – 10.45 | Introduction to the project |
+| 10.45 – 11.00  | Break |
+| 11.30 – 13.00 | Create an overview of correspondence editions in our  |
 | 13.00 – 14.00 | Lunsj (egen regning) |
 | 14.30 – 15.45 | Skrive rapport, fordele oppgaver og veien videre |
 | 15.45 – 16.00 | Avslutning med kaffe |
@@ -229,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ5NTQ2NjIsMTA4Mjc5MzcwOSwtOD
-A2NzM4NzA5LC0yMDU5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5
-NDQ1NjA3LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbNzg3MDE0NjE2LDEwODI3OTM3MDksLTgwNj
+czODcwOSwtMjA1OTg3MjcwOSwtMTQ1MjEzNzk1NSwtMTIxOTQ0
+NTYwNywtMjgyNjU4NDkzXX0=
 -->

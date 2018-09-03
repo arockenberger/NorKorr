@@ -77,61 +77,18 @@ We will take a close look at our materials (digital editions of Norwegian corres
 13.  periods
     
 14.  scope (part, whole, selection etc.)
-    
-15.  …
-    
-
 16.  Time and Budget
-    
 
-  
-
-Possible materials to depart from could be:
-
-  
-
+#### Possible materials to depart from could be
 -   NB-kilder
-    
 -   Ibsen skrifter
-    
 -   Munch tekster
-    
--   Qvigstad brev (started as a project of EDD/UiO [http://www.dokpro.uio.no/qvigstad/](http://www.dokpro.uio.no/qvigstad/), now at UiT)
-    
+-   Qvigstad brev (started as a project of EDD/UiO [http://www.dokpro.uio.no/qvigstad/](http://www.dokpro.uio.no/qvigstad/), now at UiT/NB)
 -   Bokselskap.no
-    
--   Privatarkivets digitaliserte brev (>14.500 stykker)
-    
--   Riksarkivet/WikimediaNorge (Bodil Biörn project [https://no.wikimedia.org/wiki/Prosjekt:Bodil_Bi%C3%B8rn](https://no.wikimedia.org/wiki/Prosjekt:Bodil_Bi%C3%B8rn)) ?
-    
--   Nikolai Astrup letters (KODE kunstmuseene i Bergen) [https://nikolai-astrup.no/en/archives/](https://nikolai-astrup.no/en/archives/)
-    
--   Ivar Aasen brev (Ivar Aasen-tunet, Ørsta) [http://www.aasentunet.no/iaa/no/ivar_aasen/brev_og_dagboker/](http://www.aasentunet.no/iaa/no/ivar_aasen/brev_og_dagboker/)
-    
--   NTNU Gunnerus: (ihvertfall noe av materialet er IIIF; bruker UniversalViewer)
-    
-
--   DKNVS Brevsamling (3738)
-    
--   Thorvald Boecks brev- og autografsamling (2294)
-    
--   Halfdan Bryn (826)
-    
--   Lars Onsager (5)
-    
--   Fredrikke Marie Qvam – brevsamling fra Gjævran gård, Steinkjer (2000) Arkivportalen Asta
-    
--   Fosli (1700) Ikke på nett
-    
-
--   …
-    
-
-  
 
 Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch standard and (3) assign tasks to the participants.
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA1NjQ5NjMsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbLTE4Mzc0NTkxMjQsLTI4MjY1ODQ5M119
 -->

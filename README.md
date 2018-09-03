@@ -92,7 +92,7 @@ This part of the project is tentative. It shall show the potential of the physic
 
 #### Hvem-til-hvem
 
-As of XXXX, metadata for correspondences in the holdings of the Private Archive are stored in HANSKE (Manuscript Catalogue, [https://www.nb.no/hanske/](https://www.nb.no/hanske/) ) which in the course of being phased out and replaced by ZZ.. Some of the correspondence metadata in the archive have previously been extracted for searching for correspondence partners and dates. There’s a website providing access to a tool (BETA version) where users can type in person names or years and get a list of results from which they can navigate onwards: [https://www.nb.no/hanske/brev/](https://www.nb.no/hanske/brev/) . The service has been developed by Torstein Tjelta (NB).
+<!-- As of XXXX, metadata for correspondences in the holdings of the Private Archive are stored in HANSKE (Manuscript Catalogue, [https://www.nb.no/hanske/](https://www.nb.no/hanske/) ) which in the course of being phased out and replaced by ZZ.. Some of the correspondence metadata in the archive have previously been extracted for searching for correspondence partners and dates. There’s a website providing access to a tool (BETA version) where users can type in person names or years and get a list of results from which they can navigate onwards: [https://www.nb.no/hanske/brev/](https://www.nb.no/hanske/brev/) . The service has been developed by Torstein Tjelta (NB). -->
 
 Tasks:
 
@@ -102,9 +102,9 @@ Tasks:
 
 #### Bokhylla.no
 
-The digitisation efforts of the NB provide an enormous amount of textual data. Included in this are Norwegian scholarly editions of correspondences that formerly were printed and now have been digitized in full text (OCR). In order to complete the NorKor metadata set, first a selection of scholarly editions of Norwegian correspondences has to be made. Then, from the text of the editions, correspondence metadata has to be (semi-)automatically extracted, stored, and transformed into a CMIF compliant format to be ingested into CorrespSearch.
+The digitisation efforts of the NB provide an enormous amount of textual data. Included in this are Norwegian scholarly editions of correspondences that formerly were printed and now have been digitized in full text (OCR). In order to complete the NorKorr metadata set, first a selection of scholarly editions of Norwegian correspondences has to be made. Then, from the text of the editions, correspondence metadata has to be (semi-)automatically extracted, stored, and transformed into a CMIF compliant format to be ingested into CorrespSearch.
 
-This is an endeavour of considerable complexity and size and requires expert knowledge in information retrieval from plain text. At this stage, it should be seen as an experiment in retrieving specific textual data from a large collection of text without too much manual interference. The results of this experiment could be presented as a paper or article in the future and the workflow and code could be published (on GitHub) for re-use on other full-text collections that contain flat encoded texts (aka plain text).
+This is an endeavour of considerable complexity and size and requires expert knowledge in information retrieval from plain text. At this stage, it should be seen as an experiment in retrieving specific textual data from a large collection of text without too much manual interference. The results of this experiment could be presented as a paper or article in the future and the workflow and code could be published for re-use on other full-text collections that contain flat encoded texts (aka plain text).
 
 A list of URNs of digitized scholarly editions of correspondences and letters will be created (by AR) and the raw OCR files will be extracted from bokhylla.no by LJ. The corpus will then be divided into materials that are in the public domain and such that are still under copyright protection. For the letters still under copyright protection, no full-text can be shown outside of the NB, however, amount of words, word lists and topic models can be extracted that should allow for ‘distant reading’ of these letters.
 
@@ -230,7 +230,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDIxOTYxOSwxMDgyNzkzNzA5LC04MD
-Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
-NDU2MDcsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbLTIwNDQzNjU5NzMsMTA4Mjc5MzcwOSwtOD
+A2NzM4NzA5LC0yMDU5ODcyNzA5LC0xNDUyMTM3OTU1LC0xMjE5
+NDQ1NjA3LC0yODI2NTg0OTNdfQ==
 -->

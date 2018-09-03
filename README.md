@@ -75,6 +75,301 @@ We will take a close look at our materials (digital editions of Norwegian corres
 Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch standard and (3) assign tasks to the participants.
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
+## Bibliography
+
+### Links
+
+[https://www.nb.no/hanske/brev/](https://www.nb.no/hanske/brev/)
+
+[https://www.nb.no/hanske/](https://www.nb.no/hanske/)
+
+[http://historicalnetworkresearch.org/](http://historicalnetworkresearch.org/)
+
+[https://journal.tei-c.org/index.php/journal/index](https://journal.tei-c.org/index.php/journal/index)
+
+[https://correspsearch.net/index.xql?l=en](https://correspsearch.net/index.xql?l=en)
+
+[https://correspsearch.net/index.xql?id=participate](https://correspsearch.net/index.xql?id=participate)
+
+[http://dh2016.adho.org/abstracts/121](http://dh2016.adho.org/abstracts/121)
+
+[http://correspsearch-test.nodegoat.net/viewer.p/4/136/scenario/1/geo/fullscreen](http://correspsearch-test.nodegoat.net/viewer.p/4/136/scenario/1/geo/fullscreen)
+
+[http://www.tei-c.org/activities/sig/correspondence/](http://www.tei-c.org/activities/sig/correspondence/)
+
+[https://github.com/TEI-Correspondence-SIG](https://github.com/TEI-Correspondence-SIG)
+
+[http://www.dokpro.uio.no/](http://www.dokpro.uio.no/)
+
+[http://www.nnedit.org/index.html](http://www.nnedit.org/index.html)
+
+[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-correspDesc.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-correspDesc.html)
+
+[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html#HD44CD)
+
+### Articles
+
+Dumont, Stefan. “CorrespSearch – Connecting Scholarly Editions of Letters.” Journal of the Text Encoding Initiative, no. 10 (December 7, 2016). [https://doi.org/10.4000/jtei.1742](https://doi.org/10.4000/jtei.1742).
+
+Neuber, Frederike. “CorrespSearch.” Variants. The Journal of the European Society for Textual Scholarship, no. 12–13 (December 31, 2016): 284–85.
+
+Dumont, S. (2016). correspSearch - A Web Service to Connect Diverse Scholarly Editions of Letters. In Digital Humanities 2016: Conference Abstracts. Jagiellonian University & Pedagogical University, Kraków, pp. 175-178.
+
+## Appendix 1
+
+### Brev-utgivelser i NB kilder pr 1/8-2018
+
+FRA
+
+TIL
+
+ÅR
+
+PUBLISERT
+
+Collett, Camilla
+
+Bjørnson, Bjørnstjerne
+
+1867
+
+NB kilder 2:2/2015
+
+Collett, Camilla
+
+Collett, Johan Christian
+
+1849
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Collett, Peter Jonas
+
+1841-1851
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Didriks, Emilie
+
+1841-1842
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Herre, Johanne Caroline
+
+1830
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Herre, Marie Emilie
+
+1830
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Ibsen, Henrik
+
+1872-1889
+
+NB kilder 2:1/2014
+
+Collett, Camilla
+
+Ibsen, Susanna
+
+1872-1894
+
+NB kilder 2:1/2014
+
+Collett, Camilla
+
+Lie, Jonas
+
+1863-1884
+
+NB kilder 2:3/2016
+
+Collett, Camilla
+
+Petersen, Emma
+
+1839
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Wergeland, Amalie Sofie
+
+1839
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Wergeland, Laura Augusta
+
+1846
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Wergeland, Nicolai
+
+1841-1844
+
+NB kilder 2:4/2018
+
+Collett, Camilla
+
+Wergeland, Oscar
+
+1844
+
+NB kilder 2:4/2018
+
+### Planlagte brev-utgivelser i NB kilder
+
+· Korrespondansen mellom Kitty Kielland og Arne Garborg, forventet publisering: 2018
+
+· Brev fra Sumatra (Jacob Iversen m.fl.), forventet publisering: 2018
+
+· Brev fra Just Qvigstad, forventet publisering: 2019
+
+· Korrespondansen mellom Kitty Kielland og Eilif Peterssen, forventet publisering: 2019(?)
+
+### Brevutgivelser NSL/bokselskap.no pr 1/8-2018
+
+FRA
+
+TIL
+
+ÅR
+
+PUBLISERT
+
+Bjørnson, Bjørnstjerne
+
+Div. danske mottakere (ca 400 brev)
+
+1854-1874
+
+NSL/bokselskap.no 2010
+
+Brandes, Georg
+
+Thoresen, Magdalene
+
+1865-1899
+
+NSL/bokselskap.no 2015
+
+Ibsen, Henrik
+
+Bjørnson, Bjørnstjerne
+
+1864-1898
+
+HIS/bokselskap.no 2014
+
+Ibsen, Henrik
+
+Collett, Camilla
+
+1877-1893
+
+HIS/bokselskap.no 2013
+
+Ibsen, Henrik
+
+Lie, Jonas
+
+1879-1900
+
+HIS/bokselskap.no 2012
+
+Kielland, Alexander L.
+
+Div. mottakere (ca 1800 brev)
+
+1869-1906
+
+NSL/bokselskap.no 2010
+
+Obstfelder, Sigbjørn
+
+Div. mottakere (ca 200 brev)
+
+1884-1900
+
+NSL/bokselskap.no 2016
+
+Skram, Amalie
+
+Skram, Erik
+
+1882-1902
+
+NSL/bokselskap.no 2016
+
+Skram, Erik
+
+Skram, Amalie
+
+1882-1902
+
+NSL/bokselskap.no 2016
+
+Thoresen, Magdalene
+
+Brandes, Georg
+
+1865-1899
+
+NSL/bokselskap.no 2015
+
+Wergeland, Henrik
+
+Bekkevold, Amalie
+
+1838-1845
+
+NSL/bokselskap.no 2011
+
+## Appendix 2
+
+### Zotero group library
+
+for scholarly editions of letters and correspondences in the hold of NB
+
+### URNs
+
+of scholarly editions of letters and correspondences in Bokhylla.no
+
+Creating the corpus via bokhylla.no
+
+Title “brev”, medium “books”, language “Norwegian (bokmål)” yields 718 hits; these were sorted chronologically, starting with the oldest. After manual inspection of each item, only the ones that match the following criteria are saved into a list of results “NorKorr-nb”. A search on 2018-08-13 yielded 173 books out of 718 hits. The list needs to be checked against the criteria below again and exported into Zotero (this is not possible via nb.no yet; it would have to be done manually for each item).
+
+### Selection Criteria
+
+-   has to be letters as part of an actual correspondence (no fictional letters, no religious sermons in the form of letters, no ‘letters to the editor’, no Briefromane)
+    
+-   has to be a scholarly edition - although, in the broadest, most inclusive sense
+
+Q: What to do with so called “utvandrerbrev”? There’s a couple of editions with letters from/to Norwegian emigrants (to the US and other places); could be of interest? Perhaps as a subcorpus; I assume that getting authority data for the senders/receivers is difficult in this case.
+
+Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0NTc1MDQ0LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMTk0NDU2MDcsLTI4MjY1ODQ5M119
 -->

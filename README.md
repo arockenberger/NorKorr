@@ -32,29 +32,20 @@ The project participants meet IRL at NB for a one-day workshop (aka hackathon) i
 #### Schedule for the workshop in week 38
 
 | Tid | Tema |
-|-10.00 – 10.45-|-Velkomst og introduksjon til NorKorr-prosjektet-|
-|10.45 – 11.00  | Pause |
-|11.30 – 13.00 | Lage oversikt: Brev og korrespondanser i våre samlinger |
-|13.00 – 14.00 | Lunsj (egen regning) |
-|14.30 – 15.45|
-Skrive rapport, fordele oppgaver og veien videre
-
-15.45 – 16.00
-
-Avslutning med kaffe
-
-  
+| 10.00 – 10.45 | Velkomst og introduksjon til NorKorr-prosjektet |
+| 10.45 – 11.00  | Pause |
+| 11.30 – 13.00 | Lage oversikt: Brev og korrespondanser i våre samlinger |
+| 13.00 – 14.00 | Lunsj (egen regning) |
+| 14.30 – 15.45 | Skrive rapport, fordele oppgaver og veien videre |
+| 15.45 – 16.00 | Avslutning med kaffe |
 
 ### Examination of Materials
 
 We will take a close look at our materials (digital editions of Norwegian correspondences), with regards to:
 
-  
-
-1.  Technical aspects
-    
-
-1.  file format
+ -  Technical aspects
+	 - List item
+	 - file format
     
 
 1.  TEI P5
@@ -153,5 +144,5 @@ Goal of the workshop is to come up with (1) an overview of digital editions of c
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODAwOTYyNSwtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbMTUxOTA3ODEzNywtMjgyNjU4NDkzXX0=
 -->

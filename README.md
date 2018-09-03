@@ -208,17 +208,13 @@ Status: 1/8-2018
 
 ## Appendix 2
 
-### Zotero Group library
+### Zotero Group Library
 
-for scholarly editions of letters and correspondences in the hold of NB
+For scholarly editions of letters and correspondences in the hold of NB. Link to [Group Library](https://www.zotero.org/groups/2214573/norkorr).
 
 ### URNs
 
-of scholarly editions of letters and correspondences in Bokhylla.no
-
-Creating the corpus via bokhylla.no
-
-Title “brev”, medium “books”, language “Norwegian (bokmål)” yields 718 hits; these were sorted chronologically, starting with the oldest. After manual inspection of each item, only the ones that match the following criteria are saved into a list of results “NorKorr-nb”. A search on 2018-08-13 yielded 173 books out of 718 hits. The list needs to be checked against the criteria below again and exported into Zotero (this is not possible via nb.no yet; it would have to be done manually for each item).
+tba
 
 ### Selection Criteria
 
@@ -230,7 +226,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzM3NjExMCwxMDgyNzkzNzA5LC04MD
-Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
-NDU2MDcsLTI4MjY1ODQ5M119
+eyJoaXN0b3J5IjpbNTc3MTk2MzA5LDEwODI3OTM3MDksLTgwNj
+czODcwOSwtMjA1OTg3MjcwOSwtMTQ1MjEzNzk1NSwtMTIxOTQ0
+NTYwNywtMjgyNjU4NDkzXX0=
 -->

@@ -68,9 +68,9 @@ We will take a close look at our materials (digital editions of Norwegian corres
 -   [Ibsen skrifter](http://ibsen.uio.no/brev.xhtml)
 -   [Munch tekster](https://www.emunch.no/english.xhtml)
 -   [Qvigstad brev](https://www.dokpro.uio.no/qvigstad/ombrev.html) (started as a project of EDD/UiO [http://www.dokpro.uio.no/qvigstad/](http://www.dokpro.uio.no/qvigstad/), now at UiT/NB)
--   Bokselskap.no
+-   [Bokselskap.no](http://www.bokselskap.no/)
 
-Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch standard and (3) assign tasks to the participants.
+Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for `CorrespSearch` and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch CMIF standard (3) assign tasks to the participants and (4) agree on delivery dates for the work packages.
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 ### Step 2: NorKor to CorrespSearch
@@ -229,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzg3MzUyMywxMDgyNzkzNzA5LC04MD
+eyJoaXN0b3J5IjpbMTkzNDgwMTM2MCwxMDgyNzkzNzA5LC04MD
 Y3Mzg3MDksLTIwNTk4NzI3MDksLTE0NTIxMzc5NTUsLTEyMTk0
 NDU2MDcsLTI4MjY1ODQ5M119
 -->

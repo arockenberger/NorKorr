@@ -23,6 +23,151 @@ Annika Rockenberger (NB)
 Hilde Bøe (Munch Museet)
 
 Philipp Conzett (UiT)
+
+
+## Step 1: Examination of Materials
+
+The project participants meet IRL at NB for a one-day workshop (aka hackathon) in week 38.
+
+### Schedule for the workshop in week 38
+
+Tid
+
+Tema
+
+10.00 – 10.45
+
+Velkomst og introduksjon til NorKorr-prosjektet
+
+10.45 – 11.00
+
+Pause
+
+11.30 – 13.00
+
+Lage oversikt: Brev og korrespondanser i våre samlinger
+
+13.00 – 14.00
+
+Lunsj (egen regning)
+
+14.30 – 15.45
+
+Skrive rapport, fordele oppgaver og veien videre
+
+15.45 – 16.00
+
+Avslutning med kaffe
+
+  
+
+### Examination of Materials
+
+We will take a close look at our materials (digital editions of Norwegian correspondences), with regards to:
+
+  
+
+1.  Technical aspects
+    
+
+1.  file format
+    
+
+1.  TEI P5
+    
+2.  TEI P4
+    
+3.  Other XML
+    
+4.  Non-XML
+    
+5.  Plain text
+    
+6.  Image (scan)
+    
+
+3.  metadata format and coverage
+    
+4.  authority data for person & place names, ISO standard for dates
+    
+
+1.  [http://viaf.org/](http://viaf.org/) (NB is member)
+    
+2.  [https://en.wikipedia.org/wiki/Virtual_International_Authority_File](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)
+    
+3.  [https://www.geonames.org/](https://www.geonames.org/)
+    
+4.  [https://www.iso.org/iso-8601-date-and-time-format.html](https://www.iso.org/iso-8601-date-and-time-format.html)
+    
+
+6.  licences (aka copyright, other limitations)
+    
+7.  …
+    
+
+3.  Content
+    
+
+1.  persons (who)
+    
+2.  periods
+    
+3.  scope (part, whole, selection etc.)
+    
+4.  …
+    
+
+5.  Time and Budget
+    
+
+  
+
+Possible materials to depart from could be:
+
+  
+
+-   NB-kilder
+    
+-   Ibsen skrifter
+    
+-   Munch tekster
+    
+-   Qvigstad brev (started as a project of EDD/UiO [http://www.dokpro.uio.no/qvigstad/](http://www.dokpro.uio.no/qvigstad/), now at UiT)
+    
+-   Bokselskap.no
+    
+-   Privatarkivets digitaliserte brev (>14.500 stykker)
+    
+-   Riksarkivet/WikimediaNorge (Bodil Biörn project [https://no.wikimedia.org/wiki/Prosjekt:Bodil_Bi%C3%B8rn](https://no.wikimedia.org/wiki/Prosjekt:Bodil_Bi%C3%B8rn)) ?
+    
+-   Nikolai Astrup letters (KODE kunstmuseene i Bergen) [https://nikolai-astrup.no/en/archives/](https://nikolai-astrup.no/en/archives/)
+    
+-   Ivar Aasen brev (Ivar Aasen-tunet, Ørsta) [http://www.aasentunet.no/iaa/no/ivar_aasen/brev_og_dagboker/](http://www.aasentunet.no/iaa/no/ivar_aasen/brev_og_dagboker/)
+    
+-   NTNU Gunnerus: (ihvertfall noe av materialet er IIIF; bruker UniversalViewer)
+    
+
+-   DKNVS Brevsamling (3738)
+    
+-   Thorvald Boecks brev- og autografsamling (2294)
+    
+-   Halfdan Bryn (826)
+    
+-   Lars Onsager (5)
+    
+-   Fredrikke Marie Qvam – brevsamling fra Gjævran gård, Steinkjer (2000) Arkivportalen Asta
+    
+-   Fosli (1700) Ikke på nett
+    
+
+-   …
+    
+
+  
+
+Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch standard and (3) assign tasks to the participants.
+
+A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0OTExOTg5LC0yODI2NTg0OTNdfQ==
+eyJoaXN0b3J5IjpbMTA1Nzg2ODY3NywtMjgyNjU4NDkzXX0=
 -->

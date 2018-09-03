@@ -43,56 +43,45 @@ The project participants meet IRL at NB for a one-day workshop (aka hackathon) i
 
 We will take a close look at our materials (digital editions of Norwegian correspondences), with regards to:
 
- -  Technical aspects
-	 - List item
+ - Technical aspects
 	 - file format
+	 - TEI P5
+	 - TEI P4
+	 - Other XML
+	 - Non-XML
+	 - Plain text
+	 - Image (scan)
+ -  metadata format and coverage
+	 - authority data for person & place names, ISO standard for dates
     
 
-1.  TEI P5
+5.  [http://viaf.org/](http://viaf.org/) (NB is member)
     
-2.  TEI P4
+6.  [https://en.wikipedia.org/wiki/Virtual_International_Authority_File](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)
     
-3.  Other XML
+7.  [https://www.geonames.org/](https://www.geonames.org/)
     
-4.  Non-XML
-    
-5.  Plain text
-    
-6.  Image (scan)
+8.  [https://www.iso.org/iso-8601-date-and-time-format.html](https://www.iso.org/iso-8601-date-and-time-format.html)
     
 
-3.  metadata format and coverage
+9.  licences (aka copyright, other limitations)
     
-4.  authority data for person & place names, ISO standard for dates
-    
-
-1.  [http://viaf.org/](http://viaf.org/) (NB is member)
-    
-2.  [https://en.wikipedia.org/wiki/Virtual_International_Authority_File](https://en.wikipedia.org/wiki/Virtual_International_Authority_File)
-    
-3.  [https://www.geonames.org/](https://www.geonames.org/)
-    
-4.  [https://www.iso.org/iso-8601-date-and-time-format.html](https://www.iso.org/iso-8601-date-and-time-format.html)
+10.  …
     
 
-6.  licences (aka copyright, other limitations)
-    
-7.  …
+11.  Content
     
 
-3.  Content
+12.  persons (who)
+    
+13.  periods
+    
+14.  scope (part, whole, selection etc.)
+    
+15.  …
     
 
-1.  persons (who)
-    
-2.  periods
-    
-3.  scope (part, whole, selection etc.)
-    
-4.  …
-    
-
-5.  Time and Budget
+16.  Time and Budget
     
 
   
@@ -144,5 +133,5 @@ Goal of the workshop is to come up with (1) an overview of digital editions of c
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTA3ODEzNywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbLTE4NjA1NjQ5NjMsLTI4MjY1ODQ5M119
 -->

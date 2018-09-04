@@ -13,12 +13,15 @@ The aim of the NorKorr project is to aggregate and provide correspondence metada
 ### National Library
 
 Ellen Wiger
+
 Mette Witting
+
 Annika Rockenberger
 
 ### Other Norwegian Institutions
 
 Hilde Bøe (Munch Museum)
+
 Philipp Conzett (Arctic University of Tromsø, University Library)
 
 ## Implementation

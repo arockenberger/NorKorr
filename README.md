@@ -229,7 +229,7 @@ Q: What to do with so called “utvandrerbrev”? There’s a couple of editions
 
 Q: Should the corpus be limited to “important” people? Pragmatically speaking, limiting the correspondences to “important” people like writers, politicians, cultural and academic elite, nobility could be the easiest way to create a corpus where authority data is available. Letters and correspondences of other people is interesting from a different perspective (local history, cultural history, genealogy etc.) but presumably harder to back with authority data and larger correspondences (aka ‘letters of a lifetime’).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTk2MzA5LDEwODI3OTM3MDksLTgwNj
-czODcwOSwtMjA1OTg3MjcwOSwtMTQ1MjEzNzk1NSwtMTIxOTQ0
-NTYwNywtMjgyNjU4NDkzXX0=
+eyJoaXN0b3J5IjpbLTE5MzIzMDIxNDEsNTc3MTk2MzA5LDEwOD
+I3OTM3MDksLTgwNjczODcwOSwtMjA1OTg3MjcwOSwtMTQ1MjEz
+Nzk1NSwtMTIxOTQ0NTYwNywtMjgyNjU4NDkzXX0=
 -->

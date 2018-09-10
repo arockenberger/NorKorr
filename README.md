@@ -8,6 +8,7 @@ The project **Norwegian Correspondences** (NorKorr) aims to link these individua
 ## Aims
 
 The aim of the NorKorr project is to aggregate and provide correspondence metadata from Norwegian editions of correspondences from different projects, institutions and collections in a format that can be ingested by CorrespSearch. The final products are a large set of metadata for Norwegian correspondences under a Creative Commons licence in the CMIF ([Correspondence Metadata Interchange Format](https://github.com/TEI-Correspondence-SIG/CMIF)) standard and an open workflow for (semi-)automatically creating and delivering CMIF-compliant correspondence metadata from future editions prepared by or hosted by the National Library of Norway (and other institutions) to the CorrespSearch web service.
+
 ## Participants
 
 ### National Library of Norway
@@ -80,6 +81,11 @@ We will take a close look at our materials (digital editions of Norwegian corres
 Goal of the workshop is to come up with (1) an overview of digital editions of correspondences that are good candidates for CorrespSearch and (2) identify the work tasks needed to transform (select, format) the metadata to conform to the CorrespSearch CMIF standard (3) assign tasks to the participants and (4) agree on delivery dates for the work packages.
 
 A brief but precise description of (1) will be done, including a list of authors (see Appendix 1), time periods and content of the correspondences to show the potential for future research on this corpus.
+
+### CorrespSearch and CMIF
+
+[CMIF Standard](https://github.com/TEI-Correspondence-SIG/CMIF)
+[CorrespDesc](https://github.com/TEI-Correspondence-SIG/correspDesc)
 
 ### Step 2: NorKorr to CorrespSearch
 

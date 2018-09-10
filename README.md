@@ -85,6 +85,7 @@ A brief but precise description of (1) will be done, including a list of authors
 ### CorrespSearch and CMIF
 
 [CMIF Standard](https://github.com/TEI-Correspondence-SIG/CMIF)
+
 [CorrespDesc](https://github.com/TEI-Correspondence-SIG/correspDesc)
 
 ### Step 2: NorKorr to CorrespSearch

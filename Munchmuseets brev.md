@@ -19,3 +19,12 @@ Menn
 264
 
 Steder
+23 i TMS...
+
+K-registrerte. Brev adressert til Munch
+5842
+
+Uidentifiserte
+Personer
+71
+

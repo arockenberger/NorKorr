@@ -21,7 +21,7 @@ Annika Rockenberger
 
 ### Other Norwegian Institutions
 
-Hilde Bøe (Munch Museum)
+Hilde Bøe (The Munch Museum)
 
 Philipp Conzett (UiT The Arctic University of Norway, University Library)
 

@@ -38,9 +38,9 @@ The project participants meet IRL at the National Library in Oslo for a one-day 
 |------|------|
 | 10.00 – 10.45 | Introduction to NorKorr |
 | 10.45 – 11.00  | Break |
-| 11.30 – 13.00 | Create an overview of correspondence editions in our collections |
+| 11.00 – 13.00 | Create an overview of correspondence editions in our collections |
 | 13.00 – 14.00 | Lunch |
-| 14.30 – 15.45 | Write a report on what we have collected, assign tasks for further work and decide on further steps |
+| 14.00 – 15.45 | Write a report on what we have collected, assign tasks for further work and decide on further steps |
 | 15.45 – 16.00 | Wrapping up + coffee |
 
 ### Examination of Materials

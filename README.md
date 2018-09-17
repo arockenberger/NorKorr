@@ -27,8 +27,6 @@ Philipp Conzett (Arctic University of Tromsø, University Library)
 
 Marianne Paasche (University of Bergen, University Library)
 
-Mette Ekker (National Archives of Norway)
-
 ## Implementation
 ### Step 1: Examination of Materials
 

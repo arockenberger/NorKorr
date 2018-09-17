@@ -44,3 +44,5 @@ datering (mer eller mindre eksakt)
 
 *Hva med oppdateringer?
 CMIF-filen kan enkelt erstattes av ny fil (intern oppdatering), lage workflow så oppdateringer går automatisk? 
+
+*Hilde tar kontakt med Nasjonalmuseet og inviterer dem med!

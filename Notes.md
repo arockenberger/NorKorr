@@ -25,3 +25,5 @@ Brev, postkort, telegram
 *Hva med uidentifiserte mottakere? Eller manglende steds- eller tidsangivelse?
 
 *correspSearch: også interessert i ikke-digitaliserte brev (registert i kataloger) 
+
+Hilde tar kontakt med Nasjonalmuseet og inviterer dem med!

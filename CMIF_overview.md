@@ -40,3 +40,5 @@ You can edit the saved file at any time by loading an existing CMIF file instead
 
 ## Step 5: Publishing and Registration
 When you have finished compiling the letter index, you can save your CMIF file as XML. You must then make this XML file available online and register it with the web service correspSearch. To register, you only need to send us a short e-mail to correspsearch@bbaw.de with the URL of your CMIF file. Please do not hesitate to contact us if you have any questions or problems with the creation of your index of letters, the use of the CMIF Creator or the publication of your CMIF file!
+
+Se også: https://github.com/TEI-Correspondence-SIG/CMIF/blob/master/doc/documentation-en.md

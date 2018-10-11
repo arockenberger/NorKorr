@@ -13,7 +13,7 @@ Det må vurderes om alle 52 brev skal med her eller bare de 49.
 Jeg har laget en CMIF-fil som inneholder metadata om de 49 Collett-brevene fra 1841-51. Dataene er hentet fra correspDesc-elementene i XML-utgavefilen og lagt inn i CMIF-malen jeg fant på correspSearch-nettsiden.
 Filen ligger ute på Bokselskap-serveren: http://www.bokselskap.no/NorKorr/NBkilder_LettersCC1841-51_CMIF.xml
 
-### Edvard Munch Tekster
+### Edvard Munchs tekster
 ### Henrik Ibsen Skrifter
 Skal vi bytte det ut?
 

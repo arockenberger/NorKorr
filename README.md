@@ -88,13 +88,13 @@ A brief but precise description of (1) will be done, including a list of authors
 
 ### Step 2: NorKorr to CorrespSearch
 
-The participants prepare a conference paper and a research article about the workflow (material, data formats, distributed hosting, transformations etc.) for NorKor as an example of preparing large distributed heterogeneous metadata sets for ingestion into CorrespSearch. They explore the potential of such an endeavour and discuss advantages (and challenges) of using decentralized infrastructure and third-party solutions with regards to Norwegian cultural heritage institution’s scrope and policies. The workflow is supposed to serve as a basis for further editions of Norwegian correspondences and should stand as an example of re-use of digital data (and especially metadata) provided by large institutions of cultural heritage and research, especially in the Nordic countries.
+The participants prepare a conference paper and a research article about the workflow (material, data formats, distributed hosting, transformations etc.) for NorKorr as an example of preparing large distributed heterogeneous metadata sets for ingestion into CorrespSearch. They explore the potential of such an endeavour and discuss advantages (and challenges) of using decentralized infrastructure and third-party solutions with regards to Norwegian cultural heritage institution’s scope and policies. The workflow is supposed to serve as a basis for further editions of Norwegian correspondences and should stand as an example of re-use of digital data (and especially metadata) provided by large institutions of cultural heritage and research, especially in the Nordic countries.
 
 The paper could be presented at the TEI2019 International Conference in Graz/Austria in September 2019. Alternatively (or additionally), the paper could be given at one of the DH conferences (DHN2019 in early March, DHd2019 in late March, DH2019 in July) or at conferences for edition philology (NNE2019 in September or AG-Edition in February 2020) or Historical Network Research (HNR2019 tba).
 
 The article should be an edited and polished version of the paper and published soon after delivering the paper (aim: 2020, open access journal, international).
 
-### Step 3: NorKor at NB - The Catalogue Data from the Private Archives and Automatic Correspondence Metadata Extraction from Bokhylla.no
+### Step 3: NorKorr at NB - The Catalogue Data from the Private Archives and Automatic Correspondence Metadata Extraction from Bokhylla.no
 
 This part of the project is tentative. It shall show the potential of the physical and digital collections of the National Library of Norway, especially in regards to exploiting digital humanities methods in metadata and text mining.
 
@@ -217,6 +217,11 @@ Status: 1/8-2018
 |Skram, Erik|Skram, Amalie|1882-1902|NSL/bokselskap.no 2016|
 |Thoresen, Magdalene|Brandes, Georg|1865-1899|NSL/bokselskap.no 2015|
 |Wergeland, Henrik|Bekkevold, Amalie|1838-1845|NSL/bokselskap.no 2011|
+
+### Digital Letters in emunch.no
+Status: 11/10-2018
+
+tba
 
 ## Appendix 2
 

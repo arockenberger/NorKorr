@@ -14,6 +14,9 @@ Jeg har laget en CMIF-fil som inneholder metadata om de 49 Collett-brevene fra 1
 Filen ligger ute på Bokselskap-serveren: http://www.bokselskap.no/NorKorr/NBkilder_LettersCC1841-51_CMIF.xml
 
 ### Edvard Munchs tekster
+*HB 12.10.2018
+For Munch kan det være relevant å diskutere blant annet ukjente avsendere og mottakere, det vil si personer (og for den saks skyld institusjoner) som ikke finnes i autoritetsregistre som VIAF.
+
 ### Henrik Ibsen Skrifter
 Skal vi bytte det ut?
 

@@ -28,4 +28,6 @@ Uidentifiserte
 Personer
 71
 
-Trenger å lage ei listevisning til samlingsdatabasen for å kunne ta ut de data som skal med i csv-filer som skal konverteres til CMIF.
+Pluss
+- Trenger å lage ei listevisning til samlingsdatabasen for å kunne ta ut de data som skal med i csv-filer som skal konverteres til CMIF.
+- Lage søk i samlingsdatabasen som finner korrespondanser, altså alle brev mellom to personer.

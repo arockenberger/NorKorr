@@ -28,3 +28,4 @@ Uidentifiserte
 Personer
 71
 
+Trenger å lage ei listevisning til samlingsdatabasen for å kunne ta ut de data som skal med i csv-filer som skal konverteres til CMIF.

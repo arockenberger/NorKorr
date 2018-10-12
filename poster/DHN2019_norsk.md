@@ -15,6 +15,7 @@ Filen ligger ute på Bokselskap-serveren: http://www.bokselskap.no/NorKorr/NBkil
 
 ### Edvard Munchs tekster
 *HB 12.10.2018*
+
 For Munch kan det være relevant å diskutere blant annet ukjente avsendere og mottakere, det vil si personer (og for den saks skyld institusjoner) som ikke finnes i autoritetsregistre som VIAF.
 
 ### Henrik Ibsen Skrifter

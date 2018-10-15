@@ -23,7 +23,7 @@ We propose to present a collaborative poster at DHN2019 where we focus on five c
 
 ### Case 1 – Letters to and from Norwegian Writer and Feminist Camilla Collett (1841–1859)
 
-### Case 2 –
+### Case 2 – Letters to and from Norwegian Artist Edvard Munch (1863–1944)
 
 ### Case 3 –
 

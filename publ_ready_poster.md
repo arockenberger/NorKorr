@@ -38,9 +38,15 @@ The project NorKorr is collectively developed on GitHub _in plain view_. It is o
 ## Footnotes
 
 <a name="NBnrLetters">1</a>: A query of the manuscript catalogue "HANSKE" which is in use at the National Library of Norway, retrieves 195.653 registered letters. Among them are letters to and from Henrik Ibsen (1828–1906), Fridtjof Nansen (1861–1930), Camilla Collett (1813–1895) but also letters by Norwegian emmigrants to the United States, Mexico and Canada.
+
 <a name="MMnrLetters">2</a>: The Munch Museum holds 8802 letter to and from artist Edvard Munch (1863–1944).
+
 <a name="UiTnrLetters">3</a>: Including collections of Sami letters and material in the Sami and Kven language.
+
 <a name="UiBnrLetters">4</a>:
+
 <a name="NTNUnrLetters">5</a>: Including the historical correspondences of associates of the Royal Norwegian Society of Sciences and Letters (1760–1860) and the private collection of Thorvald Boeck (1835–1901).
+
 <a name="Dumont1">6</a>: Dumont, Stefan. “CorrespSearch – Connecting Scholarly Editions of Letters.” Journal of the Text Encoding Initiative, no. 10 (December 7, 2016). [https://doi.org/10.4000/jtei.1742](https://doi.org/10.4000/jtei.1742).
+
 <a name="Rettinghaus">7</a>: A comparable idea is put forward in Rettinghaus, K. (2018). Semantic minimal retrospective digitization of edited correspondence. Poster. TEI2018 International Conference, Tokyo, 9-13 September 2018. DOI: [https://doi.org/10.5281/zenodo.1410796](https://doi.org/10.5281/zenodo.1410796). 

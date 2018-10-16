@@ -21,7 +21,7 @@ We see this expansion to be an important step towards making digital collections
 
 We propose to present a collaborative poster at DHN2019 where we focus on five cases of correspondence collections at Norwegian cultural heritage institutions. For the cases, we decided to be as diverse and multifaceted as possible. We will describe the collections of letters of each contributing institution and the specific challenges each of these collections poses in regard to content (including language, occupation and background of authors, period) and technology (completeness of metadata and metadata format, IIIF-compatibility of digital material, editorial status, accessiblity, rights management) and the workflows we have established for mapping the correspondence metadata onto the CMIF standard for ingestion into CorrespSearch.
 
-### Case 1 – Letters from Norwegian Writer and Feminist Camilla Collett (1841–1859)
+### Case 1 – Letters from Norwegian Writer and Feminist Camilla Collett (1813–95)
 
 ### Case 2 – Letters to and from Norwegian Artist Edvard Munch (1863–1944)
 

@@ -7,6 +7,7 @@ These four letter collections from NTNU University Library highlight the special
 #### DKNVS (1760-1860)
 
 The Royal Norwegian Society for Sciences and Letters consists of 3738 letters from the first 100 years (1760-1860). They are listed in the catalogue DKNVS Collection of Letters. Among them are letters from Carl von Linné, Artur Schopenhauer, Henrik Wergeland, Ivar Aasen, and many other known people who played a part in culture and science in that time.
+https://www.ntnu.no/documents/10599/1264749819/publication.pdf
 
 Collection ID: DKNVS NTNU University Library A-0277
 

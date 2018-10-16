@@ -30,13 +30,12 @@ We propose to present a collaborative poster at DHN2019 where we focus on five c
 
 These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from the website [gunnerus.no](https://gunnerus.no)
 
-![Timeline of Collections from NTNU Gunnerus Library for the NorKorr Project](/poster/images/NTNU_case_sketch.png)
+![Timeline of Collections from NTNU Gunnerus Library for the NorKorr Project](/images/NTNU_case_sketch.png)
 
 
 #### DKNVS (1760-1860)
 
 The Royal Norwegian Society for Sciences and Letters consists of 3738 letters from the first 100 years (1760-1860). They are listed in the catalogue DKNVS Collection of Letters. Among them are letters from Carl von Linné, Artur Schopenhauer, Henrik Wergeland, Ivar Aasen, and many other known people who played a part in culture and science in that time.
-{: .alert .alert-info}
 
 Collection ID: DKNVS NTNU University Library A-0277
 

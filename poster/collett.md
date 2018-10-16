@@ -8,4 +8,4 @@ The letters are encoded in TEI P5 XML. To get the letters registered and integra
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/TEI-CMIF.jpg)
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/correspDesc.jpg)
 
-*Legge til hvis mulig: noe om hvordan det ser ut når det er lagt ut på CorrespSearch-nettstedet. Er i kontakt med Stefan Dumont som vil prøve å få lagt oss til i løpet av denne uka.
+*Legge til hvis mulig: noe om hvordan det ser ut når det er lagt ut på CorrespSearch-nettstedet. Er i kontakt med Stefan Dumont som vil prøve å få lagt oss til i løpet av denne uka.*

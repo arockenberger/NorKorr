@@ -1,7 +1,7 @@
 # NorKorr – Norwegian Correspondences and Linked Open Data
 ## About the Project
 
-The National Library of Norway has a substantial amount of private historical correspondences in its holdings,<sup>[1](#NBnrLetters)</sup> many of which are scholarly edited and published, either in printed editions or in digital form. In addition, other Norwegian cultural heritage institutions, like the Munch Museum,<sup>[2](#MMnrLetters)</sup> but also the university libraries of the Arctic University of Norway<sup>[3](#UiTnrLetters)</sup>  and the University of Bergen<sup>[4](#UiBnrLetters)</sup>  and the Gunnerus Library at the Norwegian University of Science and Technology,<sup>[5](#NTNUnrLetters)</sup>  hold significant collections of letters and are preparing digital editions of letters and correspondences of key figures of Norwegian public and academic life. Yet, all these correspondence projects lead a solitary existence–hidden either in editions of single authors or as digitized collections or individual pieces on institutional servers.
+The National Library of Norway has a substantial amount of private historical correspondences in its holdings,<sup>[1](#NBnrLetters)</sup> many of which are scholarly edited and published, either in printed editions or in digital form. In addition, other Norwegian cultural heritage institutions, like the Munch Museum,<sup>[2](#MMnrLetters)</sup> but also the university libraries of UiT The Arctic University of Norway<sup>[3](#UiTnrLetters)</sup>  and the University of Bergen<sup>[4](#UiBnrLetters)</sup>  and the Gunnerus Library at the Norwegian University of Science and Technology,<sup>[5](#NTNUnrLetters)</sup>  hold significant collections of letters and are preparing digital editions of letters and correspondences of key figures of Norwegian public and academic life. Yet, all these correspondence projects lead a solitary existence–hidden either in editions of single authors or as digitized collections or individual pieces on institutional servers.
 
 As a dialogical genre by nature, the full potential of letters and other correspondance material lies in the connection of the individuals writing and receiving letters, postcards, and telegrams–at a specific time and from and to a specific place. But because the collections of letters and individual pieces of a correspondence are historically distributed wide and far in regards to geography and institution, there rarely exist links between them. Thus research on correspondence networks that existed in Norway, the Nordic Countries–and beyond, to Europe and the rest of the world–as well as research on the letter as the main means of written communication for centuries is almost impossible.
 
@@ -9,7 +9,7 @@ The project **Norwegian Correspondences** (NorKorr, from Norwegian "Norske korre
 
 ## Aims
 
-The aim of the NorKorr project is to aggregate and provide correspondence metadata from Norwegian editions of correspondences from different projects, institutions and collections in a format that can be ingested by CorrespSearch. The metadata in question is comprised of (1) names of writer and receiver of the letter (preferably with reference to the Virtual International Authority File VIAF).<sup>[7](#VIAF)</sup> (2) A unique identifier for each letter, usually in form of a URN. (3) Optionally, the places letters were sent from and to (preferably with reference to GeoNames).<sup>[8](#GeoNames)</sup> (4) Optionally, the date of writing (in the ISO standard).<sup>[9](#ISO_dates)</sup>  The final product will be a large set of metadata for Norwegian correspondences under a Creative Commons 4.0 License in the CMIF ([Correspondence Metadata Interchange Format](https://github.com/TEI-Correspondence-SIG/CMIF)) standard and an open workflow for (semi-)automatically creating and delivering CMIF-compliant correspondence metadata from future editions prepared by or hosted by the National Library of Norway (and other institutions) to the CorrespSearch web service.
+The aim of the NorKorr project is to aggregate and provide correspondence metadata from Norwegian editions of correspondences from different projects, institutions and collections in a format that can be ingested by CorrespSearch. The metadata in question are comprised of (1) names of writer and receiver of the letter (preferably with reference to the Virtual International Authority File VIAF).<sup>[7](#VIAF)</sup> (2) A unique identifier for each letter, usually in form of a URN. (3) Optionally, the places letters were sent from and to (preferably with reference to GeoNames).<sup>[8](#GeoNames)</sup> (4) Optionally, the date of writing (in the ISO standard).<sup>[9](#ISO_dates)</sup>  The final product will be a large set of metadata for Norwegian correspondences under a Creative Commons 4.0 License in the CMIF ([Correspondence Metadata Interchange Format](https://github.com/TEI-Correspondence-SIG/CMIF)) standard and an open workflow for (semi-)automatically creating and delivering CMIF-compliant correspondence metadata from future editions prepared by or hosted by the National Library of Norway (and other institutions) to the CorrespSearch web service.
 
 In addition to aggregating the metadata from digital and printed (scholarly) editions, NorKorr aims to incorporate all digitized correspondence material. This means that all manuscript and private archive collections throughout Norway which have undergone or will undergo digitization and assign individual URNs to each letter together with a minimum of metadata (often derived from manuscript catalogues) will be interconnected.<sup>[10](#Rettinghaus)</sup> At the present, CorrespSearch doesn't incorporate material that is not (scholarly) edited in either digital or printed format. NorKorr will, however, collect all correspondence metadata regardless and map it on the CMIF standard using the URNs as persistant identifiers for individual letters. It will thus be possible to use the existing infrastructure that CorrespSearch provides to connect material in almost all forms: scholarly edited, printed or digital, and digitized.
 
@@ -39,7 +39,23 @@ These four letter collections from NTNU University Library highlight the special
 
 ### Case 4 –
 
-### Case 5 –
+### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
+
+Knud Just Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway. During several decades, Qvigstad was involved in an extensive correspondence with other experts on Sami from Norway, Scandinavia, and other countries. Some of Qvigstad's letters were digitized, transcribed, and published online as part of the ([Documentation Project](https://www.dokpro.uio.no/qvigstad/ombrev.html)) in the early 1990ies:
+
+ - Qvigstad to Magnus Olsen (1909-1956) (65 letters), held at the National Library of Norway.
+ - Qvigstad to K. B. Wiklund (1891-1936) (96 letters), held at Uppsala University Library.
+ - Qvigstad to Emil N. Setälä (1887-1935) (96 letters), held at the National Archives of Finland, prof. Setälä’s private archive.
+
+More than 20 years have passed since the publication of these letters. The aim of the project **Qvigstad’s correspondence 2.0** at the UiT University Library is to re-edit the letters according to the requirements to a modern digital scholarly edition, including the following enhancements:
+
+ - Providing high resolution tif/jpg facsimile images
+ - SGML to XML/TEI P5 conversion of transcription
+ - Embedding in virtual research environment for humanities: TextGrid
+ - Up-to-date web interface
+
+In addition, the letters to Sophus Bugge (1833-1907) will be included. In collaboration with the National Library of Norway, a selection of letters will be published as a reader-friendly edition in Skriftserien NB kilder.
+
 
 ### Project Website
 

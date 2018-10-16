@@ -52,7 +52,11 @@ These four letter collections from NTNU University Library highlight the special
 
 ### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
 
-Knud Just Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway. During several decades, Qvigstad was involved in an extensive correspondence with other experts on Sami from Norway, Scandinavia, and other countries. Some of Qvigstad's letters were digitized, transcribed, and published online as part of the ([Documentation Project](https://www.dokpro.uio.no/qvigstad/ombrev.html)) in the early 1990ies:
+|  |  |
+|--|--|
+| Just Knud Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway. (Photo: Wikimedia Commons) | ![Just Knud Qvigstad](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Just_Qvigstad.jpg/159px-Just_Qvigstad.jpg "Just Knud Qvigstad (Source: Wikimedia Commons") |
+
+During several decades, Qvigstad was involved in an extensive correspondence with other experts on Sami from Norway, Scandinavia, and other countries. Some of Qvigstad's letters were digitized, transcribed, and published online as part of the ([Documentation Project](https://www.dokpro.uio.no/qvigstad/ombrev.html)) in the early 1990ies:
 
  - Qvigstad to Magnus Olsen (1909-1956) (65 letters), held at the National Library of Norway.
  - Qvigstad to K. B. Wiklund (1891-1936) (96 letters), held at Uppsala University Library.

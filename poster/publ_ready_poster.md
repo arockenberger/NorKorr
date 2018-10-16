@@ -30,7 +30,7 @@ We propose to present a collaborative poster at DHN2019 where we focus on five c
 
 These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from the website [gunnerus.no](https://gunnerus.no)
 
-![Timeline of Collections from NTNU Gunnerus Library for the NorKorr Project](/images/NTNU_case_sketch.png)
+![Timeline of Collections from NTNU Gunnerus Library for the NorKorr Project](/poster/images/NTNU_case_sketch.png)
 
 
 |DKNVS (1760-1860)|Thorvald Boeck (15 August 1835 - 21 April 1901)|Mikael Heggelund Foslie (21 October 1855 – 9 November 1909)|Halfdan Bryn (20 May 1864 – 5 March 1933)|

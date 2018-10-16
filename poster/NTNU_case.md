@@ -2,7 +2,7 @@
 
 These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from gunnerus.no
 
-![Sketch](/images/NTNU_case_sketch.png)
+![Sketch](/poster/images/NTNU_case_sketch.png)
 
 #### DKNVS (1760-1860)
 

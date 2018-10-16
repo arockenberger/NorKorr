@@ -1,6 +1,6 @@
 <!-- @arockenberger has taken the content from the .docx file sent by @evelynthor and pasted it into a markdown file. -->
 
-These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from gunnerus.no
+These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from https://ntnu.tind.io/?ln=no
 
 ![Sketch](/poster/images/NTNU_case_sketch.png)
 

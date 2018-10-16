@@ -25,13 +25,12 @@ We propose to present a collaborative poster at DHN2019 where we focus on five c
 
 ### Case 2 – Letters to and from Norwegian Artist Edvard Munch (1863–1944)
 
-### Case 3 – Correspondence Collections of The Royal Norwegian Society for Sciences and Letters (1760–1860)
+### Case 3 – Two Centuries of Scientific Correspondences from the Collection of the Gunnerus Library in Trondheim
 <!-- @arockenberger has taken the content from the .docx file sent by @evelynthor and pasted it into a markdown file. -->
 
 These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from the website [gunnerus.no](https://gunnerus.no)
 
 ![Timeline of Collections from NTNU Gunnerus Library for the NorKorr Project](/poster/images/NTNU_case_sketch.png)
-
 
 #### DKNVS (1760-1860)
 
@@ -58,9 +57,6 @@ He was a Norwegian physician and physical anthropologist. As an army doctor, Bry
 [Halfdan Bryns korrespondanse digitalisert](https://www.ntnu.no/blogger/ub-spesialsamlinger/2016/04/26/halfdan-bryns-korrespondanse-digitalisert/)
 
 Collection ID: DKNVS NTNU University Library A-0037
-
-By Thor, Evelyn & Wolden, Ove. (2018): NTNU University Library
-
 
 ### Case 4 –
 

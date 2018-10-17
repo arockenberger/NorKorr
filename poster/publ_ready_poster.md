@@ -48,7 +48,18 @@ These four letter collections from NTNU University Library highlight the special
 |---|---|---|---|
 |The Royal Norwegian Society for Sciences and Letters consists of 3738 letters from the first 100 years (1760-1860). They are listed in the catalogue DKNVS Collection of Letters. Among them are letters from Carl von Linné, Artur Schopenhauer, Henrik Wergeland, Ivar Aasen, and many other known people who played a part in culture and science in that time. _Collection ID: DKNVS NTNU University Library A-0277_|He was a famous collector and known for assembling what was the largest private library of its time in Norway. The collection of 2294 letters from 1784-1865 are diverse and consist among others of Royal senders and other famous persons. _Collection ID: DKNVS NTNU University Library Thorvald Boeck letter and autograph collection_|He was one of the most important international researchers on the systematics of non-geniculate coralline red algae at the turn of the 19th century. From 1892 until his death he worked in Trondheim as a curator at the Museum of the Royal Norwegian Society for Sciences and Letters (DKNVS). His correspondence is an example of a worldwide scientific communication and discussion and the exchange of species among scientists. This botanical collection of letter from 1884-1909 consists of 1963 letters. [Coralline algae, online now](https://www.ntnu.no/blogger/ub-spesialsamlinger/en/2017/03/23/coralline-algae-now-soon-online/) _Collection ID: DKNVS NTNU University Library A-0044_|He was a Norwegian physician and physical anthropologist. As an army doctor, Bryn had opportunity to study men from different parts of Norway and this inspired him to do his research. The collection consists of 830 letters from 1920-1931 and represents his scientific correspondence about anthropological research and it shows his contributions to scientific racism and to unorthodox anthropological theories. [Halfdan Bryns korrespondanse digitalisert](https://www.ntnu.no/blogger/ub-spesialsamlinger/2016/04/26/halfdan-bryns-korrespondanse-digitalisert/) _Collection ID: DKNVS NTNU University Library A-0037_|
 
-### Case 4 –
+### Case 4 – The letter collections at University of Bergen Library
+
+By focusing on three disparate collections of letters from the Section for Special Collections, we wish to show the value and potential of linking and contextualizing these collections in a correspondence database. 
+
+The first collection, Ms 790<sup>[11](#ubb-ms-0790)</sup>, actively collected by the Bank Officer O.J. Larsen, contains c. 2100 letters written by Norwegian and European “celebrities”, from Camilla Collett and Edvard Munch to Napoleon, Goethe and Lord Byron. As a curated collection, the letters defy a “normal” correspondence pattern. However, within a correspondence database new links to similar collections / related letters can elucidate the original correspondence.
+
+The second collection, Ms 2083<sup>[12](#ubb-ms-2083)</sup>, contains around 350 letters sent to the physician, leprosy scientist, zoologist, and director at Bergens Museum, D.C. Danielssen (1815-94). This fascinating collection reveals the wide-ranging exchange and collaboration of scientific research and ideas between Danielssen and scientists in Scandinavia and Europe.
+
+Finally, Ms 2155<sup>[13](#ubb-ms-2155)</sup>, the Mons Flæsland Collection, is a private collection, containing c. 950 family letters from the period 1895-1930. The collection describes everyday life, relations and destinies through three generations of detailed family letters. This uniquely preserved collection is equally important as a reflection of social conditions and class distinctions.
+
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg)*Fig. 1. Dated 20th of March 1844 this crossed letter from Ms 2083 was written by Diethelm in Frauenfeld and sent to D.C. Danielssen in Bergen.*
+
 
 ### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
 
@@ -84,7 +95,7 @@ The project NorKorr is collectively developed on GitHub _in plain view_. It is o
 
 <a name="UiTnrLetters">3</a>: Including collections of Sami letters and material in the Sami and Kven language.
 
-<a name="UiBnrLetters">4</a>:
+<a name="UiBnrLetters">4</a>: Section for Special Collections, University of Bergen Library, holds c. 600 separate collections of letters and correspondence. Digitized material is presented at [marcus.uib.no](http://marcus.uib.no).
 
 <a name="NTNUnrLetters">5</a>: Including the historical correspondences of associates of the Royal Norwegian Society of Sciences and Letters (1760–1860) and the private collection of Thorvald Boeck (1835–1901).
 
@@ -96,4 +107,11 @@ The project NorKorr is collectively developed on GitHub _in plain view_. It is o
 
 <a name="ISO_dates">9</a>: Dates shall be recorded using the [ISO 8601 standard](https://www.iso.org/standard/40874.html).
 
-<a name="Rettinghaus">10</a>: A comparable idea is put forward in Klaus Rettinghaus (2018). Semantic minimal retrospective digitization of edited correspondence. Poster. TEI2018 International Conference, Tokyo, 9–13 September 2018. DOI: [https://doi.org/10.5281/zenodo.1410796](https://doi.org/10.5281/zenodo.1410796). 
+<a name="Rettinghaus">10</a>: A comparable idea is put forward in Klaus Rettinghaus (2018). Semantic minimal retrospective digitization of edited correspondence. Poster. TEI2018 International Conference, Tokyo, 9–13 September 2018. DOI: [https://doi.org/10.5281/zenodo.1410796](https://doi.org/10.5281/zenodo.1410796).
+
+<a name="ubb-ms-0790">11</a>: Visit [marcus.uib.no/instance/collection/ubb-ms-0790](http://marcus.uib.no/instance/collection/ubb-ms-0790).
+
+<a name="ubb-ms-2083">12</a>: Visit [marcus.uib.no/instance/collection/ubb-ms-2083](http://marcus.uib.no/instance/collection/ubb-ms-2083).
+
+<a name="ubb-ms-2155">13</a>: Visit [marcus.uib.no/instance/collection/ubb-ms-2155](http://marcus.uib.no/instance/collection/ubb-ms-2155).
+

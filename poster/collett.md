@@ -6,6 +6,6 @@ The National Library in Norway has approximately 1000 letters written by the Nor
 The letters are encoded in TEI P5 XML. To get the letters registered and integrated into the CorrespSearch web service we create a CMIF file based on the metadata already recorded in the correspDesc element in our XML files.
 
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/TEI-CMIF.jpg)*Fig. 2. The process*
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/correspDesc.jpg)*Fig. 3. Screenshot from the Collett CMIF file*
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/correspDesc.jpg)*Fig. 3. Screenshot from the CMIF file*
 
 *Legge til hvis mulig: noe om hvordan det ser ut når det er lagt ut på CorrespSearch-nettstedet. Er i kontakt med Stefan Dumont som vil prøve å få lagt oss til i løpet av denne uka.*

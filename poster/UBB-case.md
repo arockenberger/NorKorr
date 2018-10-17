@@ -1,4 +1,4 @@
-##Case 4: The letter collections at University of Bergen Library
+## Case 4: The letter collections at University of Bergen Library
 
 By focusing on three disparate collections of letters from the Section for Special Collections, we wish to show the value and potential of linking and contextualizing these collections in a correspondence database. 
 

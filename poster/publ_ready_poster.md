@@ -69,8 +69,7 @@ Finally, Ms 2155<sup>[13](#ubb-ms-2155)</sup>, the Mons Flæsland Collection, is
 
 ### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
 
-Just Knud Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway. (Photo: Wikimedia Commons)
-![Qvigstad_brev#140](https://github.com/arockenberger/NorKorr/blob//poster/images/Qvigstad_brev#140.jpg)*Fig. 8. Letter from Just Knud Qvigstad to Arne Garborg April 3, 1911*
+Just Knud Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway.
 
 During several decades, Qvigstad was involved in an extensive correspondence with other experts on Sami from Norway, Scandinavia, and other countries. Some of Qvigstad's letters were digitized, transcribed, and published online as part of the ([Documentation Project](https://www.dokpro.uio.no/qvigstad/ombrev.html)) in the early 1990ies:
 

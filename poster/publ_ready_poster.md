@@ -76,6 +76,8 @@ During several decades, Qvigstad was involved in an extensive correspondence wit
  - Qvigstad to Magnus Olsen (1909-1956) (65 letters), held at the National Library of Norway.
  - Qvigstad to K. B. Wiklund (1891-1936) (96 letters), held at Uppsala University Library.
  - Qvigstad to Emil N. Setälä (1887-1935) (96 letters), held at the National Archives of Finland, prof. Setälä’s private archive.
+ 
+ ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/qvigstad_dokprosjekt_snapshot.png)*Fig. 8 Screenshot from the early Qvigstad digital scholarly edition by the Documention Project.
 
 More than 20 years have passed since the publication of these letters. The aim of the project Qvigstad’s Correspondence 2.0 at the UiT University Library is to re-edit the letters according to the requirements to a modern digital scholarly edition, including the following enhancements:
 

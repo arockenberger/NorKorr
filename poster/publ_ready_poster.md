@@ -32,7 +32,7 @@ The letters are encoded in TEI P5 XML. To get the letters registered and integra
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/TEI-CMIF.jpg)*Fig. 2. The process*
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/correspDesc.jpg)*Fig. 3. Screenshot from the CMIF file*
 
-<!-- *Legge til hvis mulig: noe om hvordan det ser ut når det er lagt ut på CorrespSearch-nettstedet. Er i kontakt med Stefan Dumont som vil prøve å få lagt oss til i løpet av denne uka.* -->
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/CC_CS.jpg)*Fig. 4. Screenshot from the CorrespSearch web service, where the Collett data is searchable*
 
 ### Case 2 – Letters to and from Norwegian Artist Edvard Munch (1863–1944)
 

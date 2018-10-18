@@ -5,4 +5,4 @@ Among the more than 800 senders and 400 recipients currently in our online regis
 
 A presentation of Munch’s correspondence needs to incorporate all of this to be really representative.
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/emunch.png)
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/emunch.png)*Fig. 1. Screenshot from the digital edition*

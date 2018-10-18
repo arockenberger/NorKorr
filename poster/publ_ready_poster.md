@@ -23,7 +23,7 @@ We propose to present a collaborative poster at DHN2019 where we focus on five c
 
 ### Case 1 – Letters from Norwegian Writer and Feminist Camilla Collett (1813–95)
 
-The National Library of Norway has approximately 1000 letters written by the Norwegian author Camilla Collett (1813-95) in its manuscript collection. More than half of these letters have never been published. Collett’s handwriting is difficult to read, so there has been little research on them, and the library wants to make the letters more available by transcribing, encoding and publishing them. One of the publications is a digital edition containing approximately 50 letters written by Collett in the years 1841-51. The edition is part of the library’s source edition series NB kilder, published on the e-book website Bokselskap: [http://www.bokselskap.no/boker/collettbrev1841_51/tittelside](http://www.bokselskap.no/boker/collettbrev1841_51/tittelside)
+The National Library of Norway has approximately 1.000 letters written by the Norwegian author Camilla Collett (1813-1895) in its manuscript collection. More than half of these letters have never been published. Collett’s handwriting is difficult to read, so there has been little research on them, and the library wants to make the letters more available by transcribing, encoding and publishing them. One of the publications is a digital edition containing approximately 50 letters written by Collett in the years 1841-1851. The edition is part of the library’s source edition series NB kilder, published on the e-book website Bokselskap: [http://www.bokselskap.no/boker/collettbrev1841_51/tittelside](http://www.bokselskap.no/boker/collettbrev1841_51/tittelside)
 
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/CC_BS.jpg)*Fig. 1. Screenshot from the digital edition*
 
@@ -36,36 +36,42 @@ The letters are encoded in TEI P5 XML. To get the letters registered and integra
 
 ### Case 2 – Letters to and from Norwegian Artist Edvard Munch (1863–1944)
 
+Norwegian artist Edvard Munch’s correspondence with family and friends, and with assistants, patrons, collectors, art dealers, printers, newspaper and magazine editors, artists, writers, art historians, exhibition organisers, gallery owners, shipping companies, and more, comprises more than 10.000 known letters and letter drafts.
+
+Among the more than 800 senders and 400 recipients currently in our online registers at [https://emunch.no/](https://emunch.no/) are well-known names that are easy to connect to authoritative identifiers, but also many that aren’t. Among those not present in authority registers are Munch’s family and some of the friends he most eagerly exchanged letters with as well as other important people and institutions. The letters are written in Norwegian, German, Danish, Swedish and French as well as the odd occurrence of English, Italian, Spanish, Polish and Czech. The letters span 70 years, from 1874 to 1944, representing hundreds of handwriting styles and many types of letters. Metadata are partially incomplete; Munch himself didn’t always bother adding date and place to letters, and envelopes are often missing, so analysing the content is necessary to discover when and where a letter was written and whereto it was sent.
+
+A presentation of Munch’s correspondence needs to incorporate all of this to be really representative.
+
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/emunch.png)*Fig. 5. Screenshot from the digital edition*
+
 ### Case 3 – Correspondence Collections of The Royal Norwegian Society for Sciences and Letters (1760–1860)
-<!-- @arockenberger has taken the content from the .docx file sent by @evelynthor and pasted it into a markdown file. -->
 
-These four letter collections from NTNU University Library highlight the special collections of NTNU UB through their international correspondence, thus showing their importance for adding them to a common database. These letter collections are scanned, digitized and available from the website [gunnerus.no](https://gunnerus.no)
+The following four letter collections highlight the special collections of NTNU University Library through their international correspondence, thus showing their importance for adding them to a common database.
 
-![Timeline of Collections from NTNU Gunnerus Library for the NorKorr Project](/poster/images/NTNU_case_sketch.png)
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/NTNU_case_sketch.png)*Fig. 6. Timeline for Collections from NTNU Gunnerus Library*
 
 
 |DKNVS (1760-1860)|Thorvald Boeck (15 August 1835 - 21 April 1901)|Mikael Heggelund Foslie (21 October 1855 – 9 November 1909)|Halfdan Bryn (20 May 1864 – 5 March 1933)|
 |---|---|---|---|
 |The Royal Norwegian Society for Sciences and Letters consists of 3738 letters from the first 100 years (1760-1860). They are listed in the catalogue DKNVS Collection of Letters. Among them are letters from Carl von Linné, Artur Schopenhauer, Henrik Wergeland, Ivar Aasen, and many other known people who played a part in culture and science in that time. _Collection ID: DKNVS NTNU University Library A-0277_|He was a famous collector and known for assembling what was the largest private library of its time in Norway. The collection of 2294 letters from 1784-1865 are diverse and consist among others of Royal senders and other famous persons. _Collection ID: DKNVS NTNU University Library Thorvald Boeck letter and autograph collection_|He was one of the most important international researchers on the systematics of non-geniculate coralline red algae at the turn of the 19th century. From 1892 until his death he worked in Trondheim as a curator at the Museum of the Royal Norwegian Society for Sciences and Letters (DKNVS). His correspondence is an example of a worldwide scientific communication and discussion and the exchange of species among scientists. This botanical collection of letter from 1884-1909 consists of 1963 letters. [Coralline algae, online now](https://www.ntnu.no/blogger/ub-spesialsamlinger/en/2017/03/23/coralline-algae-now-soon-online/) _Collection ID: DKNVS NTNU University Library A-0044_|He was a Norwegian physician and physical anthropologist. As an army doctor, Bryn had opportunity to study men from different parts of Norway and this inspired him to do his research. The collection consists of 830 letters from 1920-1931 and represents his scientific correspondence about anthropological research and it shows his contributions to scientific racism and to unorthodox anthropological theories. [Halfdan Bryns korrespondanse digitalisert](https://www.ntnu.no/blogger/ub-spesialsamlinger/2016/04/26/halfdan-bryns-korrespondanse-digitalisert/) _Collection ID: DKNVS NTNU University Library A-0037_|
 
-### Case 4 – The letter collections at University of Bergen Library
+### Case 4 – The Letter Collections at University of Bergen Library
 
 By focusing on three disparate collections of letters from the Section for Special Collections, we wish to show the value and potential of linking and contextualizing these collections in a correspondence database. 
 
-The first collection, Ms 790<sup>[11](#ubb-ms-0790)</sup>, actively collected by the Bank Officer O.J. Larsen, contains c. 2100 letters written by Norwegian and European “celebrities”, from Camilla Collett and Edvard Munch to Napoleon, Goethe and Lord Byron. As a curated collection, the letters defy a “normal” correspondence pattern. However, within a correspondence database new links to similar collections / related letters can elucidate the original correspondence.
+The first collection, Ms 790<sup>[11](#ubb-ms-0790)</sup>, actively collected by the Bank Officer O.J. Larsen, contains ca. 2.100 letters written by Norwegian and European “celebrities”, from Camilla Collett and Edvard Munch to Napoleon, Goethe and Lord Byron. As a curated collection, the letters defy a “normal” correspondence pattern. However, within a correspondence database new links to similar collections / related letters can elucidate the original correspondence.
 
-The second collection, Ms 2083<sup>[12](#ubb-ms-2083)</sup>, contains around 350 letters sent to the physician, leprosy scientist, zoologist, and director at Bergens Museum, D.C. Danielssen (1815-94). This fascinating collection reveals the wide-ranging exchange and collaboration of scientific research and ideas between Danielssen and scientists in Scandinavia and Europe.
+The second collection, Ms 2083<sup>[12](#ubb-ms-2083)</sup>, contains around 350 letters sent to the physician, leprosy scientist, zoologist, and director at Bergens Museum, D.C. Danielssen (1815-1894). This fascinating collection reveals the wide-ranging exchange and collaboration of scientific research and ideas between Danielssen and scientists in Scandinavia and Europe.
 
-Finally, Ms 2155<sup>[13](#ubb-ms-2155)</sup>, the Mons Flæsland Collection, is a private collection, containing c. 950 family letters from the period 1895-1930. The collection describes everyday life, relations and destinies through three generations of detailed family letters. This uniquely preserved collection is equally important as a reflection of social conditions and class distinctions.
+Finally, Ms 2155<sup>[13](#ubb-ms-2155)</sup>, the Mons Flæsland Collection, is a private collection, containing ca. 950 family letters from the period 1895-1930. The collection describes everyday life, relations and destinies through three generations of detailed family letters. This uniquely preserved collection is equally important as a reflection of social conditions and class distinctions.
 
-![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg)*Fig. 1. Dated 20th of March 1844 this crossed letter from Ms 2083 was written by Diethelm in Frauenfeld and sent to D.C. Danielssen in Bergen.*
+![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg)*Fig. 7. Dated 20th of March 1844 this crossed letter from Ms 2083 was written by Diethelm in Frauenfeld and sent to D.C. Danielssen in Bergen.*
 
 
 ### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
 
-|  |  |
-|--|--|
-| Just Knud Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway. (Photo: Wikimedia Commons) | ![Just Knud Qvigstad](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Just_Qvigstad.jpg/159px-Just_Qvigstad.jpg "Just Knud Qvigstad (Source: Wikimedia Commons") |
+Just Knud Qvigstad was en expert on Sami language and culture (“lappologist”). He worked as the headmaster of the Tromsø Teacher Training College, which is one of the “predecessors” of UiT The Arctic University of Norway. (Photo: Wikimedia Commons)
+![Just Knud Qvigstad](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Just_Qvigstad.jpg/159px-Just_Qvigstad.jpg) *Fig. 8. Just Knud Qvigstad (Source: Wikimedia Commons")*
 
 During several decades, Qvigstad was involved in an extensive correspondence with other experts on Sami from Norway, Scandinavia, and other countries. Some of Qvigstad's letters were digitized, transcribed, and published online as part of the ([Documentation Project](https://www.dokpro.uio.no/qvigstad/ombrev.html)) in the early 1990ies:
 
@@ -73,15 +79,14 @@ During several decades, Qvigstad was involved in an extensive correspondence wit
  - Qvigstad to K. B. Wiklund (1891-1936) (96 letters), held at Uppsala University Library.
  - Qvigstad to Emil N. Setälä (1887-1935) (96 letters), held at the National Archives of Finland, prof. Setälä’s private archive.
 
-More than 20 years have passed since the publication of these letters. The aim of the project **Qvigstad’s correspondence 2.0** at the UiT University Library is to re-edit the letters according to the requirements to a modern digital scholarly edition, including the following enhancements:
+More than 20 years have passed since the publication of these letters. The aim of the project Qvigstad’s Correspondence 2.0 at the UiT University Library is to re-edit the letters according to the requirements to a modern digital scholarly edition, including the following enhancements:
 
  - Providing high resolution tif/jpg facsimile images
  - SGML to XML/TEI P5 conversion of transcription
  - Embedding in virtual research environment for humanities: TextGrid
  - Up-to-date web interface
 
-In addition, the letters to Sophus Bugge (1833-1907) will be included. In collaboration with the National Library of Norway, a selection of letters will be published as a reader-friendly edition in Skriftserien NB kilder.
-
+In addition, the letters to Sophus Bugge (1833-1907) will be included. In collaboration with the National Library of Norway, a selection of letters will be published as a reader-friendly edition in NB kilder.
 
 ### Project Website
 

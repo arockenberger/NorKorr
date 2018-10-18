@@ -1,7 +1,7 @@
-# NorKorr – Norwegian Correspondences and Linked Open Data
+# Norwegian Correspondences and Linked Open Data
 ## About the Project
 
-The National Library of Norway has a substantial amount of private historical correspondences in its holdings,<sup>[1](#NBnrLetters)</sup> some of them are scholarly edited and published, either in printed editions or in digital form. In addition, other Norwegian cultural heritage institutions, like the Munch Museum,<sup>[2](#MMnrLetters)</sup> but also the university libraries of UiT The Arctic University of Norway<sup>[3](#UiTnrLetters)</sup>  and the University of Bergen<sup>[4](#UiBnrLetters)</sup>  and the Gunnerus Library at the Norwegian University of Science and Technology,<sup>[5](#NTNUnrLetters)</sup>  hold significant collections of letters and are preparing digital editions of letters and correspondences of key figures of Norwegian public and academic life. Yet, all these correspondence projects lead a solitary existence–hidden either in editions of single authors or as digitized collections or individual pieces on institutional servers.
+The National Library of Norway has a substantial amount of private historical correspondences in its holdings,<sup>[1](#NBnrLetters)</sup> some of them are scholarly edited and published, either in printed editions or in digital form. In addition, other Norwegian cultural heritage institutions, like the Munch Museum,<sup>[2](#MMnrLetters)</sup> but also the university libraries of The Arctic University of Norway<sup>[3](#UiTnrLetters)</sup>  and the University of Bergen<sup>[4](#UiBnrLetters)</sup>  and the Gunnerus Library at the Norwegian University of Science and Technology,<sup>[5](#NTNUnrLetters)</sup>  hold significant collections of letters and are preparing digital editions of letters and correspondences of key figures of Norwegian public and academic life. Yet, all these correspondence projects lead a solitary existence–hidden either in editions of single authors or as digitized collections or individual pieces on institutional servers.
 
 As a dialogical genre by nature, the full potential of letters and other correspondance material lies in the connection of the individuals writing and receiving letters, postcards, and telegrams–at a specific time and from and to a specific place. But because the collections of letters and individual pieces of a correspondence are historically distributed wide and far in regards to geography and institution, there rarely exist links between them. Thus research on correspondence networks that existed in Norway, the Nordic Countries–and beyond, to Europe and the rest of the world–as well as research on the letter as the main means of written communication for centuries is almost impossible.
 
@@ -21,9 +21,9 @@ We see this expansion to be an important step towards making digital collections
 
 We propose to present a collaborative poster at DHN2019 where we focus on five cases of correspondence collections at Norwegian cultural heritage institutions. For the cases, we decided to be as diverse and multifaceted as possible. We will describe the collections of letters of each contributing institution and the specific challenges each of these collections poses in regard to content (including language, occupation and background of authors, period) and technology (completeness of metadata and metadata format, IIIF-compatibility of digital material, editorial status, accessiblity, rights management) and the workflows we have established for mapping the correspondence metadata onto the CMIF standard for ingestion into CorrespSearch.
 
-### Case 1 – Letters from Norwegian Writer and Feminist Camilla Collett (1813–95)
+### Case 1 – Letters from Norwegian Writer and Feminist Camilla Collett (1813–1895)
 
-The National Library of Norway has approximately 1.000 letters written by the Norwegian author Camilla Collett (1813-1895) in its manuscript collection. More than half of these letters have never been published. Collett’s handwriting is difficult to read, so there has been little research on them, and the library wants to make the letters more available by transcribing, encoding and publishing them. One of the publications is a digital edition containing approximately 50 letters written by Collett in the years 1841-1851. The edition is part of the library’s source edition series NB kilder, published on the e-book website Bokselskap: [http://www.bokselskap.no/boker/collettbrev1841_51/tittelside](http://www.bokselskap.no/boker/collettbrev1841_51/tittelside)
+The National Library of Norway has approximately 1.000 letters written by the Norwegian author Camilla Collett (1813–1895) in its manuscript collection. More than half of these letters have never been published. Collett’s handwriting is difficult to read, so there has been little research on them, and the library wants to make the letters more available by transcribing, encoding and publishing them. One of the publications is a digital edition containing approximately 50 letters written by Collett in the years 1841-1851. The edition is part of the library’s source edition series NB kilder, published on the e-book website Bokselskap: [http://www.bokselskap.no/boker/collettbrev1841_51/tittelside](http://www.bokselskap.no/boker/collettbrev1841_51/tittelside)
 
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/CC_BS.jpg)*Fig. 1. Screenshot from the digital edition*
 
@@ -66,7 +66,6 @@ The second collection, Ms 2083<sup>[12](#ubb-ms-2083)</sup>, contains around 350
 Finally, Ms 2155<sup>[13](#ubb-ms-2155)</sup>, the Mons Flæsland Collection, is a private collection, containing ca. 950 family letters from the period 1895-1930. The collection describes everyday life, relations and destinies through three generations of detailed family letters. This uniquely preserved collection is equally important as a reflection of social conditions and class distinctions.
 
 ![](https://github.com/arockenberger/NorKorr/blob/master/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg)*Fig. 7. Dated 20th of March 1844 this crossed letter from Ms 2083 was written by Diethelm in Frauenfeld and sent to D.C. Danielssen in Bergen.*
-
 
 ### Case 5 – Letters from Norwegian philologist, linguist, ethnographer, and historian Just Knud Qvigstad (1853-1957)
 
@@ -119,4 +118,3 @@ The project NorKorr is collectively developed on GitHub _in plain view_. It is o
 <a name="ubb-ms-2083">12</a>: Visit [marcus.uib.no/instance/collection/ubb-ms-2083](http://marcus.uib.no/instance/collection/ubb-ms-2083).
 
 <a name="ubb-ms-2155">13</a>: Visit [marcus.uib.no/instance/collection/ubb-ms-2155](http://marcus.uib.no/instance/collection/ubb-ms-2155).
-

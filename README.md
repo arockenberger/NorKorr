@@ -40,3 +40,6 @@ Please be especially AWARE of the fact that the material in this repository is l
 The NorKorr Team welcomes all contributions from all people! If you see there's something off with a file here or the code needs improvement or we made mistakes – please feel free to push to the repo!
 
 At the moment, we would especially welcome some help with the layout for our website. If you know of a minimalistic but aesthetically pleasing Jekyll theme, you may add it to our repo. A blog-like template would be best suited for our purposes.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNDAzNjM2MTJdfQ==
+-->

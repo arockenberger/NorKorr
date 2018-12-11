@@ -31,6 +31,10 @@ Ove Wolden (NTNU Gunnerus Library, The Norwegian University of Science and Techn
 
 Evelyn Thor (NTNU Gunnerus Library, The Norwegian University of Science and Technology)
 
+## Bibliography
+
+We use a Zotero group library for the collection and management of research literature and printed editions of letters. The group is public. You can find us here: [NorKorr Zotero Group Library](https://www.zotero.org/groups/2214573/norkorr)
+
 ## Contact
 
 If you want to contribute with your collection of Norwegian letters, telegrams, postcards etc. please create a GitHub profile and file an Issue with your request! We do our entire communication and project management via GitHub.

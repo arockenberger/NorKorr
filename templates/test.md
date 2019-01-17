@@ -1,1 +1,0 @@
-skal slettes etterpa

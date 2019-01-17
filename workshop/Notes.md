@@ -46,3 +46,10 @@ datering (mer eller mindre eksakt)
 CMIF-filen kan enkelt erstattes av ny fil (intern oppdatering), lage workflow så oppdateringer går automatisk? 
 
 *Hilde tar kontakt med Nasjonalmuseet og inviterer dem med!
+
+# Skjema til metadata NorKorr
+
+|Digital|ID|Brevnr.|Avsender|Mottaker|Avsendersted|Avsenderadresse|Dato|URL/URN|Språk|Samling/arkiv/utgave|
+|------|------|------|------|------|------|------|------|------|------|------|
+
+

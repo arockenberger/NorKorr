@@ -27,9 +27,9 @@ Marianne Paasche (University of Bergen, University Library)
 
 Ola Søndenå (University of Bergen, University Library)
 
-Ove Wolden (NTNU Gunnerus Library, The Norwegian University of Science and Technology)
+Ove Wolden (NTNU University Library, The Norwegian University of Science and Technology)
 
-Evelyn Thor (NTNU Gunnerus Library, The Norwegian University of Science and Technology)
+Evelyn Thor (NTNU University Library, The Norwegian University of Science and Technology)
 
 ## Bibliography
 

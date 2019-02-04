@@ -1,8 +1,10 @@
-
-**title:**  GitHub Integrated Project Management Started<br>
-**date:**   2019-01-31<br>
-**author:** Annika Rockenberger<br>
-
+---
+layout: post
+title:  "GitHub Integrated Project Management Started"
+date:   2019-01-31
+author: Annika Rockenberger
+categories: General
+---
 
 Quick update: We had been discussing starting with a project management system for NorKorr. I've started today by creating two
 so-called "projects" in the repository, one dedicated to the upcoming conference of the Digital Humanities in the Nordic Countries

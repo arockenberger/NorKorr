@@ -14,13 +14,14 @@ exclude:
   - [README.md]
   - [old_index.md]
   - [typography.html]
+  - "typography.html"
   
 
 # Site settings
 title: Norwegian Correspondences
 subtitle: "Connecting Letters"
 email: arockenberger@gmail.com
-name: Annika Rockenberger et al.
+name: Annika Rockenberger, Ellen Wiger, Mette Witting, Hilde Bøe, Marianne Paasche, Ola Søndenå, Evelyn Thor, Ove Wolden & Philipp Conzett
 description: >
   Official Website for the Norwegian Correspondences Project
 # Base URL of site (i.e. /blog). It should always start with a slash,

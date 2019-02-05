@@ -11,7 +11,7 @@ exclude:
   - "/data/"
   - "/poster/"
   - "/templates/"
-  - "README.md"
+  - [README.md]
   
 
 # Site settings

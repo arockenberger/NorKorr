@@ -11,6 +11,7 @@ exclude:
   - "/data/"
   - "/poster/"
   - "/templates/"
+  - "README.md"
   
 
 # Site settings
@@ -25,7 +26,7 @@ description: >
 # root of your server.
 baseurl: "/NorKorr" # the subpath of your site, e.g. /blog/
 url: "http://arockenberger.github.io" # the base hostname & protocol for your site
-cover: "/poster/images/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg"
+cover: "/assets/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg"
 logo: ""
 
 # Build settings

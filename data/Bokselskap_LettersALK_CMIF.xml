@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Alexander L. Kielland</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<publisher>
+<ref target="https://www.bokselskap.no/hjelp_om/nsl">Det norske språk- og litteraturselskap</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/Bokselskap_LettersALK_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="b96d6194-a37c-41ab-9857-48fb16f113b1">Alexander L. Kielland: Brev 1869-1906. Det norske språk- og litteraturselskap/bokselskap.no, Oslo 2010 (brevtekster hentet fra Johs. Lundes NSL-utgave fra 1978)
+<ref target="https://www.bokselskap.no/boker/brev18691906/tittelside">https://www.bokselskap.no/boker/brev18691906/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+
+<!-- 1869 -->
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1869-2#d18691009BK">
+<correspAction type="sent">
+<persName ref="https://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1869-10-09"/>
+</correspAction>
+<correspAction type="received">
+<persName>Beate Kielland (f. Ramsland)</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1869-2#d18691016FL">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1869-10-16"/>
+</correspAction>
+<correspAction type="received">
+<persName>Fritz Leffler</persName>
+</correspAction>
+</correspDesc>
+
+<!-- 1870 -->
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1870-2#d18701005BK">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1870-10-05"/>
+</correspAction>
+<correspAction type="received">
+<persName>Beate Kielland (f. Ramsland)</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1870-2#d18701005BK">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1870-10-05"/>
+</correspAction>
+<correspAction type="received">
+<persName>Beate Kielland (f. Ramsland)</persName>
+</correspAction>
+</correspDesc>
+
+<!-- 1871 -->
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1871-2#d18711010BK">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1871-10-10"/>
+</correspAction>
+<correspAction type="received">
+<persName>Beate Kielland (f. Ramsland)</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1871-2#d18711022BK">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1871-10-22"/>
+</correspAction>
+<correspAction type="received">
+<persName>Beate Kielland (f. Ramsland)</persName>
+</correspAction>
+</correspDesc>
+
+<!-- ingen brev fra 1872 -->
+
+<!-- 1873 -->
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1873-2#d18730308AC">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3137115">Stavanger</placeName>
+<date when="1873-03-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/230149106239968491955">Albert Cammermeyer</persName>
+</correspAction>
+</correspDesc>
+
+<correspDesc source="#b96d6194-a37c-41ab-9857-48fb16f113b1" ref="https://www.bokselskap.no/boker/brev18691906/1873-2#d18730830OAD">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/54187212">Alexander L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3137115">Stavanger</placeName>
+<date when="1873-08-30"/>
+</correspAction>
+<correspAction type="received">
+<persName>Oscar Andersen Dietz</persName>
+</correspAction>
+</correspDesc>
+
+<!-- ingen brev fra 1874 og 1875 -->
+
+<!-- 1876 -->
+
+
+
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Henrik Ibsen to Camilla Collett</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<publisher>
+<ref target="https://www.ibsen.uio.no/">Henrik Ibsens skrifter</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/Bokselskap_LettersHI-CC_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="da1560a1-a587-4e5a-9237-6cb619e2e1b3">Henrik Ibsen: Brev til Camilla Collett. bokselskap.no/Henrik Ibsens skrifter, Oslo 2013
+<ref target="https://www.bokselskap.no/boker/ibsenbrevcollett/tittelside">https://www.bokselskap.no/boker/ibsenbrevcollett/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/16-februar-1877">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1877-02-16"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/oktober-1877">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1877-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/20-november-1879">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1879-11-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/august-1881">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3166350">Sorrento</placeName>
+<date when="1881-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/17-januar-1883">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1883-01-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/3-mai-1889">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1889-05-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/3-mai-1892">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1892-05-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#da1560a1-a587-4e5a-9237-6cb619e2e1b3" ref="https://www.bokselskap.no/boker/ibsenbrevcollett/23-januar-1893">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1893-01-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

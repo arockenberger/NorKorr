@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Index: Letters by Camilla Collett 1841–51</title>
+                <editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.nb.no">Nasjonalbiblioteket</ref>
+                </publisher>
+                <publisher>
+                    <ref target="http://www.bokselskap.no">bokselskap.no</ref>
+                </publisher>
+                <idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersCC1841-51_CMIF.xml</idno>
+                <date when="2018-10-19"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"> This file is
+                        licensed under the terms of the Creative-Commons-License CC-BY 4.0
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="f27a1a89-af5a-464a-96c0-5057afaa15cc">Camilla Collett: Brev 1841–51. Utgitt ved Mette Refslund Witting
+                    og Tone Modalsli, NB kilder 2:4, Nasjonalbiblioteket/bokselskap.no, Oslo 2018
+                        <ref target="http://www.bokselskap.no/boker/collettbrev1841_51/tittelside">http://www.bokselskap.no/boker/collettbrev1841_51/tittelside</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/18juli1841nw">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1841-07-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/24197942">Nicolai Wergeland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/9august1841ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1841-08-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/12september1841ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1841-09-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/september1841ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1841-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/september1841pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1841-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/26september1841pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1841-09-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/27september1841pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1841-09-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/2oktober1841pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1841-10-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/3oktober1841pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1841-10-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1842ed1">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1842ed2">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1842ed3">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1842ed4">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/sommeren1842pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date from="1842-06" to="1842-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/3juli1842pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1842-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/25juli1842ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1842-07-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/3august1842ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1842-08-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/august1842ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/september1842ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/oktober1842ed">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/oktober1842ed2">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1842-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/55149196534374792416">Emilie
+                        Diriks</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/oktober1842pjc1">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1842-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/oktober1842pjc2">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1842-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/10juni1843nw">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1843-06-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/24197942">Nicolai Wergeland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/3juli1843pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1843-07-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juli1843pjc1">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1843-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juli1843pjc2">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1843-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/21august1843pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1843-08-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/januar1844ow">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1844-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/227296380">Oscar Wergeland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1844nw">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1844-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/24197942">Nicolai Wergeland</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1844pjc1">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1844pjc2">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/7juli1844pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-07-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/12juli1844pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-07-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juli1844pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/17august1844pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/august1844pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1844-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/25januar1845pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1845-01-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/vaaren1846lw">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1846"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Laura Wergeland</persName>
+                    <note resp="ENW">not in VIAF/Bibsys/NB</note>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/27juli1846pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1846-07-27"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/mai1847pjc1">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1847-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/mai1847pjc2">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1847-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/7juni1847pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1847-06-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1847pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1847-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/20mai1848pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date when="1848-05-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/sommeren1848pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3158608">Eidsvoll</placeName>
+                    <date notBefore="1848-06-11" notAfter="1848-09-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juni1849pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1849-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/juli1849jcc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+                    <date when="1849-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Johan Christian Collett</persName>
+                    <note resp="ENW">ikke i VIAF/Bibsys/NB</note>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#f27a1a89-af5a-464a-96c0-5057afaa15cc" ref="http://www.bokselskap.no/boker/collettbrev1841_51/23juni1851pjc">
+                <correspAction type="sent">
+                    <persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+                    <placeName ref="http://www.geonames.org/3140390">Sandefjord</placeName>
+                    <date when="1851-06-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://viaf.org/viaf/223986544">Peter Jonas Collett</persName>
+                </correspAction>
+            </correspDesc>
+
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>

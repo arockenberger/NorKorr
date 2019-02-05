@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Henrik Ibsen to Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<publisher>
+<ref target="https://www.ibsen.uio.no/">Henrik Ibsens skrifter</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/Bokselskap_LettersHI-BB_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="d51ae620-507a-447c-a07a-a48784eaafe2">Henrik Ibsen: Brev til Bj&#x00F8;rnstjerne Bj&#x00F8;rnson. bokselskap.no/Henrik Ibsens skrifter, Oslo 2014
+<ref target="https://www.bokselskap.no/boker/ibsenbrevbjornson/tittelside">https://www.bokselskap.no/boker/ibsenbrevbjornson/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/16-september-1864">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1864-09-16"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/28-januar-1865">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1865-01-28"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/12-september-1865">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3182851">Ariccia</placeName>
+<date when="1865-09-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/4-mars-1866">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1866-03-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/5-mai-1866">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1866-05-05"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/17-november-1866">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1866-11-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/9-desember-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1867-12-09"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/28-desember-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1867-12-28"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/13-mars-1872">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2935022">Dresden</placeName>
+<date when="1872-03-13"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/28-oktober-1877">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1877-10-28"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/12-juli-1879">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3183130">Amalfi</placeName>
+<date when="1879-07-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/8-mars-1882">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1882-03-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/4-august-1882">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3178386">Gossensass</placeName>
+<date when="1882-08-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/9-august-1882">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3178386">Gossensass</placeName>
+<date when="1882-08-09"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/9-januar-1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1884-01-09"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/23-mars-1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1884-03-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/15-august-1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3178386">Gossensass</placeName>
+<date when="1884-08-15"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/29-september-1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3178386">Gossensass</placeName>
+<date when="1884-09-29"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/22-desember-1885">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1885-12-22"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/24-mai-1888">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1888-05-24"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/8-desember-1892">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1892-12-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/15-juni-1897">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1897-06-15"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#d51ae620-507a-447c-a07a-a48784eaafe2" ref="https://www.bokselskap.no/boker/ibsenbrevbjornson/29-desember-1898">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1898-12-29"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

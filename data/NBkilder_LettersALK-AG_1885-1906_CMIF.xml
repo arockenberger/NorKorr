@@ -1,0 +1,511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters between Kitty L. Kielland and Arne Garborg 1885-1906</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket (National Library of Norway)</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersALK-AG_1885-1906_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="efe61e41-7a88-49a7-9f81-f86401e5167e">Kitty L. Kielland og Arne Garborg: Brevveksling 1885-1906. Utgitt ved Anne Melg&#x00E5;rd, NB kilder 8:1, Nasjonalbiblioteket/bokselskap.no, Oslo 2018
+<ref target="https://www.bokselskap.no/boker/brevkiellandgarborg/tittelside">https://www.bokselskap.no/boker/brevkiellandgarborg/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/8sept1885agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1885-09-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/7april1886agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1886-04-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/12juli1886agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<date when="18860712"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/nov1886klkag1">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<date when="1886-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/nov1886klkag2">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<date when="1886-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/4des1886klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1886-12-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/4og12des1886klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date from="1886-12-04" to="1886-12-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/6des1886klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1886-12-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/20des1886klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1886-12-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/25des1886klkag1">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3027852">Cernay la Ville</placeName>
+<date when="1886-12-25"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/25des1886klkag2">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3027852">Cernay la Ville</placeName>
+<date when="1886-12-25"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/25des1886klkag3">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3027852">Cernay la Ville</placeName>
+<date when="1886-12-25"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/romjul1886klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1886-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/1jan1887klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1887-01-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/jan1887klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1887-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/jan1887klkag2">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1887-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/jan1887klkag3">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1887-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/5feb1887agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1887-02-05"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/23feb1887klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1887-02-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/2til8mai1887agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date from="1887-05-02" to="1887-05-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/1aug1887agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3163269">Lille Elvedalen Station (Alvdal)</placeName>
+<date when="1887-08-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/14mars1888agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotten (Savalen)</placeName>
+<date when="1888-03-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/20okt1888agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotten (Savalen)</placeName>
+<date when="1888-10-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/26okt1888klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3134628">Time</placeName>
+<date when="1888-10-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/18des1888agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotten (Savalen)</placeName>
+<date when="1888-12-18"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/feb1889agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<date when="1889-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/21april1889agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3162471">Auma</placeName>
+<date when="1889-04-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/12mai1889agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotten (Savalen)</placeName>
+<date when="1889-05-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/6jan1890agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/2943523">Brück</placeName>
+<date when="1890-01-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/juni1891agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1891-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/15aug1891agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1891-08-15"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/sept-okt1891klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3140128">Sandviken (Sandvika)</placeName>
+<date from="1891-09" to="1891-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/14okt1891agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1891-10-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/1des1891agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1891-12-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/23mai1892agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3134628">pr Time St.</placeName>
+<date when="1892-05-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/12jan1893agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1893-01-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/30jan1893klkag">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1893-01-30"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/6nov1893agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1893-11-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/1894gbklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<date from="1894-04" to="1894-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/27jul1894agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1894-07-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/30aug1895agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/9537737">Kolbotnen (Savalen)</placeName>
+<date when="1895-08-30"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/22nov1895agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1895-11-22"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/8april1899agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3162657">Labraaten (Asker)</placeName>
+<date when="1899-04-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/4nov1899agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3162657">Labraaten (Asker)</placeName>
+<date when="1899-11-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/21jan1900agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<date when="1900-01-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/21april1900agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3162657">Labraaten (Asker)</placeName>
+<date when="1900-04-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/8okt1901agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3162657">Labraatan (Asker)</placeName>
+<date when="1901-10-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#efe61e41-7a88-49a7-9f81-f86401e5167e" ref="https://www.bokselskap.no/boker/brevkiellandgarborg/26jan1906agklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/89613088">Arne Garborg</persName>
+<placeName ref="http://www.geonames.org/3162657">Valstad (Asker)</placeName>
+<date when="1906-01-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

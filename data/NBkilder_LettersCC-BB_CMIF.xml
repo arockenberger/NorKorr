@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Camilla Collett to Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket (National Library of Norway)</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersCC-BB_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="ee1d34c0-323d-476d-8b63-5d02c6a4459f">Camilla Collett: Brev til Bj&#x00F8;rnstjerne Bj&#x00F8;rnson. Utgitt ved Mette Refslund Witting og Marius Wulfsberg, NB kilder 2:2, Nasjonalbiblioteket/bokselskap.no, Oslo 2015
+<ref target="https://www.bokselskap.no/boker/collettbrevbjornson/tittelside">https://www.bokselskap.no/boker/collettbrevbjornson/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#ee1d34c0-323d-476d-8b63-5d02c6a4459f" ref="https://www.bokselskap.no/boker/collettbrevbjornson/4-september-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1867-09-04"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#ee1d34c0-323d-476d-8b63-5d02c6a4459f" ref="https://www.bokselskap.no/boker/collettbrevbjornson/27-september-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1867-09-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#ee1d34c0-323d-476d-8b63-5d02c6a4459f" ref="https://www.bokselskap.no/boker/collettbrevbjornson/27-oktober-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1867-10-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#ee1d34c0-323d-476d-8b63-5d02c6a4459f" ref="https://www.bokselskap.no/boker/collettbrevbjornson/12-november-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1867-11-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#ee1d34c0-323d-476d-8b63-5d02c6a4459f" ref="https://www.bokselskap.no/boker/collettbrevbjornson/17-november-1867">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1867-11-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/295290572">Bj&#x00F8;rnstjerne Bj&#x00F8;rnson</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

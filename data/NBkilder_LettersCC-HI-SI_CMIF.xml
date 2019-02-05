@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Camilla Collett to Henrik and Susanna Ibsen</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket (National Library of Norway)</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersCC-HI-SI_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="a92a2ecf-dd30-40d4-a9b9-51af2873303b">Camilla Collett: Brev til Henrik og Susanna Ibsen. Utgitt ved Mette Refslund Witting, NB kilder 2:1, Nasjonalbiblioteket/bokselskap.no, Oslo 2014
+<ref target="https://www.bokselskap.no/boker/collettbrevibsen/tittelside">https://www.bokselskap.no/boker/collettbrevibsen/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/14februar1872">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1872-02-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/19-21februar1872">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date from="1872-02-19" to="1872-02-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/17april1877">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1877-04-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/mai-juni1877">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date from="1877-05" to="1877-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/6november1879">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1879-11-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/12januar1880">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1880-01-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/12februar1880">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1880-02-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/18oktober1880">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+<date when="1880-10-18"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/november1880">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+<date when="1880-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/31juli1881">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1881-07-31"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/1juni1882">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1882-06-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/12februar1883">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1883-02-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/12februar1883sui">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1883-02-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/5april1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-04-05"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/12juli1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1884-07-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/24februar1889">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1889-02-24"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/1890-arene">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<date from="1890" to="1895"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/udatert-hi">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<date from="1872" to="1885"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/udatert-sui">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<date from="1877" to="1895"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/37987515">Susanna Ibsen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#a92a2ecf-dd30-40d4-a9b9-51af2873303b" ref="https://www.bokselskap.no/boker/collettbrevibsen/august1881kladd">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1881-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

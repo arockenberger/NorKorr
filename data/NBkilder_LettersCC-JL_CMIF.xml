@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Camilla Collett to Jonas Lie</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket (National Library of Norway)</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersCC-JL_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="eece9017-4e29-4dc4-be39-931d4ec08c34">Camilla Collett: Brev til Jonas Lie. Utgitt ved Mette Refslund Witting, NB kilder 2:3, Nasjonalbiblioteket/bokselskap.no, Oslo 2016
+<ref target="https://www.bokselskap.no/boker/collettbrevlie/tittelside">https://www.bokselskap.no/boker/collettbrevlie/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/26desember1863">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
+<date when="1863-12-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/1februar1864">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1864-02-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/20februar1864">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1864-02-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/1juni1864">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<date when="1864-06-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/sommeren1871">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<date from="1871-06" to="1871-09"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/18juli1883">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1883-07-18"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/november1883">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1883-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/januar1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-01"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/20januar1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-01-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/mars1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<date when="1884-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/7april1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-04-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/14april1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-04-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/2juni1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-06-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/8mars1885">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1885-03-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/3april1886">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1886-04-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/26april1886">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1886-04-26"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#eece9017-4e29-4dc4-be39-931d4ec08c34" ref="https://www.bokselskap.no/boker/collettbrevlie/6november1893">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/56718081">Camilla Collett</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1893-11-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters from Henrik Ibsen to Jonas Lie</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<publisher>
+<ref target="https://www.ibsen.uio.no/">Henrik Ibsens skrifter</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/Bokselskap_LettersHI-JL_CMIF.xml</idno>
+<date when="2019-02-04"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678">Henrik Ibsen: Brev til Jonas Lie. bokselskap.no/Henrik Ibsens skrifter, Oslo 2012
+<ref target="https://www.bokselskap.no/boker/ibsenbrevlie/tittelside">https://www.bokselskap.no/boker/ibsenbrevlie/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/25-mai-1879">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1879-05-25"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/22-juni-1882">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1882-06-22"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/ca1882">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3178386">Gossensass</placeName>
+<date when="1882"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/2-januar-1884-telegram">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1884-01-02"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/20-november-1884">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1884-11-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/ca1885">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1885"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/27-januar-1887">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1887-01-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/28-desember-1888">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1888-12-28"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/ca1891">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<date when="1891"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/6-november-1893">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1893-11-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/30-mars-1895">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1895-03-30"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#bb2ffcd9-9a2a-483f-adf3-6bc3c65e2678" ref="https://www.bokselskap.no/boker/ibsenbrevlie/15-januar-1900">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/71378383">Henrik Ibsen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1900-01-15"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="https://viaf.org/viaf/59124011">Jonas Lie</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

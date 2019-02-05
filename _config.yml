@@ -13,6 +13,7 @@ exclude:
   - "/templates/"
   - [README.md]
   - [old_index.md]
+  - [typography.html]
   
 
 # Site settings

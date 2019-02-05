@@ -8,6 +8,10 @@ gems:
 
 exclude:
   - "/vendor/"
+  - "/data/"
+  - "/poster/"
+  - "/templates/"
+  
 
 # Site settings
 title: Norwegian Correspondences

@@ -13,10 +13,9 @@ that are roughly outlined in the project description.
 
 This is still pretty much a testing phase for the project management. I have never actively used project management tools before
 and will give this a try. It is also my first time as a project lead of a project that involves more than two people. We shall 
-whether this works in our favor and generally supports to progress and tasks in NorKorr.
+see whether this works in our favor and if it generally supports the progress and tasks in NorKorr.
 
-For the time being, I suggest the team members check the status of the projects regularly and file issues with specific tasks
-which can be integrated into the project board. Also: when a task is finished, please move the card (by drag-and-drop) into "Done",
-likewise, if you have started a task, move it from "To-Do" into "In Progress".
+For the time being, I recommend the team members check the status of the projects regularly and file issues with specific tasks
+which can be integrated into the project board. And since it's smart, it'll move to "Done" automatically when the Issue is resolved!
 
 Keep the good work going!

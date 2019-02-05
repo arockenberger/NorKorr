@@ -29,7 +29,7 @@ description: >
 baseurl: "/NorKorr" # the subpath of your site, e.g. /blog/
 url: "http://arockenberger.github.io" # the base hostname & protocol for your site
 cover: "/assets/ubb-ms-2083-b-1-09_Letter_to_DCDanielssen.jpg"
-logo: ""
+# logo: ""
 
 # Build settings
 markdown: kramdown

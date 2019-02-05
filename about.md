@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # NorKorr – Norwegian Correspondences and Linked Open Data
 ## About the Project
 

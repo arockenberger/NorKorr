@@ -12,7 +12,7 @@ exclude:
   - "/poster/"
   - "/templates/"
   - [README.md]
-  - "old_index.md"
+  - [old_index.md]
   
 
 # Site settings

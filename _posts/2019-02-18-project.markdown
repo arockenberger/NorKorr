@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Kitty Kielland's Correspondence in CorrespSearch"
+date:   2019-02-18
+author: Ellen Wiger
+categories: General
+---
+
+The latest addition to the NorKorr corpus is the correspondence of Kitty Kielland and Arne Garborg.
+
+
+Brevene mellom maleren Kitty L. Kielland (1843–1914) og forfatteren Arne Garborg (1851–1924) gir et unikt innblikk i en langvarig, skriftlig kontakt mellom to nære venner. De skrev jevnlig brev til hverandre, i hvert fall fram til Kielland sent i livet ble for syk. Dessverre er mange ikke bevart, særlig gjelder det Kiellands brev fra 1890-årene. Brevvekslingen som presenteres her er fra årene 1885–1906, i alt 48 fragmenter/brev/kladder. 18 av disse er skrevet av Kielland, av disse er 15 kladder. 30 er skrevet av Garborg.
+
+
+Please translate!
+
+Write a bit about creating the CMIF from the edition on bokselskap. Add links to the edition. Are there articles about Kielland and Garborg on Wikipedia (no/en)? Link to those as well.
+
+Article doesn't need to be longer than 300-500 words.
+
+:)

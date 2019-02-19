@@ -1,21 +1,18 @@
 ---
-layout: post
-title:  "GitHub Integrated Project Management Started"
-date:   2019-01-31
-author: Annika Rockenberger
-categories: General
+layout: post # do not change this
+title:  "A Short But Catchy Title" # Should not exceed 10 words
+date:   YYYY-MM-DD # date in ISO standard
+author: Firstname Lastname # Your name, should be full name
+categories: General # So far there is only one category, General. If you want to add categories, edit the _config.yml file (read the Wiki on who to do that!)
 ---
 
-Quick update: We had been discussing starting with a project management system for NorKorr. I've started today by creating two
-so-called "projects" in the repository, one dedicated to the upcoming conference of the Digital Humanities in the Nordic Countries
-in March 2019 in Copenhagen [DHN2019](https://github.com/arockenberger/NorKorr/projects/3) and one handling the Phase I tasks
-that are roughly outlined in the project description.
+Here comes the text.
+300-500 words is a good size.
+Use markdown to include links, images, tables etc.
 
-This is still pretty much a testing phase for the project management. I have never actively used project management tools before
-and will give this a try. It is also my first time as a project lead of a project that involves more than two people. We shall 
-see whether this works in our favor and if it generally supports the progress and tasks in NorKorr.
+You can visually structure your post with paragraphs; they can be shorter than
+in an article.
 
-For the time being, I recommend the team members check the status of the projects regularly and file issues with specific tasks
-which can be integrated into the project board. And since it's smart, it'll move to "Done" automatically when the Issue is resolved!
+Stylistically, a blog post often has a more conversational tone. Think essay, not journal article.
 
-Keep the good work going!
+If you use references, add them at the end of the blogpost.

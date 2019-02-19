@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "GitHub Integrated Project Management Started"
+date:   2019-01-31
+author: Annika Rockenberger
+categories: General
+---
+
+Quick update: We had been discussing starting with a project management system for NorKorr. I've started today by creating two
+so-called "projects" in the repository, one dedicated to the upcoming conference of the Digital Humanities in the Nordic Countries
+in March 2019 in Copenhagen [DHN2019](https://github.com/arockenberger/NorKorr/projects/3) and one handling the Phase I tasks
+that are roughly outlined in the project description.
+
+This is still pretty much a testing phase for the project management. I have never actively used project management tools before
+and will give this a try. It is also my first time as a project lead of a project that involves more than two people. We shall 
+see whether this works in our favor and if it generally supports the progress and tasks in NorKorr.
+
+For the time being, I recommend the team members check the status of the projects regularly and file issues with specific tasks
+which can be integrated into the project board. And since it's smart, it'll move to "Done" automatically when the Issue is resolved!
+
+Keep the good work going!

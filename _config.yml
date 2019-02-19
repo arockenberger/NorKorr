@@ -20,7 +20,7 @@ exclude:
 
 # Site settings
 title: Norwegian Correspondences
-subtitle: "Connecting Letters"
+subtitle: "Connecting Letters Accross Norway"
 email: arockenberger@gmail.com
 name: Annika Rockenberger, Ellen Wiger, Mette Witting, Hilde Bøe, Marianne Paasche, Ola Søndenå, Evelyn Thor, Ove Wolden & Philipp Conzett
 description: >
@@ -58,11 +58,14 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Digital Scholarly Edition
+    desc: "Posts describing Digital Scholarly Editions in NorKorr"
 
-  - cat: general
-    desc: "Posts of general nature"
+  - cat: General
+    desc: "Posts of general nature; news"
+
+  - cat:
+    desc: ""
 
 # Social icons and sharing options
 #

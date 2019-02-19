@@ -15,7 +15,8 @@ exclude:
   - [old_index.md]
   - [typography.html]
   - "typography.html"
-  
+  - _posts/template.markdown
+
 
 # Site settings
 title: Norwegian Correspondences
@@ -108,4 +109,3 @@ social:
 #    os_repo: "https://github.com/bencentra/centrarium.com"
 #    os_rcs_type: "git"
 #    os_src: "git@github.com:bencentra/centrarium.com.git"
-

@@ -1,0 +1,5 @@
+The project Norwegian Correspondences welcomes any kind of contribution, big or small, from everybody!
+
+If you think that something looks off in a data file or the code needs improvement or we made mistakes in our docs or you are missing a feature – please feel free to create an [Issue](https://github.com/arockenberger/NorKorr/issues).
+
+If you want to contribute to our data with metadata of a digital edition of correspondences (letters, telegrams, postcards etc.) or a catalogue of a physical collection, please contact the owner of this repository via email to arockenberger[at]gmail[dot]com.

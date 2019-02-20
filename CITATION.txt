@@ -1,0 +1,3 @@
+Please cite this work as:
+
+Rockenberger, Annika et al. Norwegian Correspondences. 2019. https://github.com/arockenberger/NorKorr. (last accessed on YYYY-MM-DD)

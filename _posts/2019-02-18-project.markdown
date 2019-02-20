@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Kitty Kielland's Correspondence in CorrespSearch"
+title:  "Kitty L. Kielland's Correspondence in CorrespSearch"
 date:   2019-02-20
 author: Ellen Wiger
 categories: General
 ---
 
-The latest addition to the NorKorr corpus is the correspondence of Kitty Kielland and Arne Garborg.
+The latest addition to the NorKorr corpus is the correspondence of Kitty L. Kielland and Arne Garborg.
 
 The Norwegian painter [Kitty L. Kielland](https://en.wikipedia.org/wiki/Kitty_Lange_Kielland) (1843–1914) and the Norwegian writer [Arne Garborg](https://en.wikipedia.org/wiki/Arne_Garborg) (1851–1924) first met in Paris in 1885. The letters between them give an unique insight into a lifelong friendship. They wrote letters to each other regularly, at least until Kielland late in life became too ill. Unfortunately, many are not preserved, especially in the case of Kielland's letters from the 1890s. The exchange of letters presented in the digital edition ([Kitty L. Kielland og Arne Garborg. 
 Brevveksling 1885–1906. Edited by Anne Melgård, National Library of Norway, 2018](https://www.bokselskap.no/boker/brevkiellandgarborg/tittelside)) is from the years 1885–1906, a total of 48 fragments/letters/drafts. 18 of these are written by Kielland, 30 is written by Garborg.

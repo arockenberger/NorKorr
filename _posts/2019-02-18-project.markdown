@@ -13,7 +13,7 @@ The Norwegian painter [Kitty L. Kielland](https://en.wikipedia.org/wiki/Kitty_La
 Brevveksling 1885–1906. Edited by Anne Melgård, National Library of Norway, 2018](https://www.bokselskap.no/boker/brevkiellandgarborg/tittelside)) is from the years 1885–1906, a total of 48 fragments/letters/drafts. 18 of these are written by Kielland, 30 is written by Garborg.
 
 
-![Kitty L. Kielland to Arne Garborg, undated, Ms.4° 4318:A](https://github.com/arockenberger/NorKorr/blob/master/_posts/skriftKLK.jpg)
+![Kitty L. Kielland to Arne Garborg, undated, Ms.4° 4318:A](NorKorr/_posts/skriftKLK.jpg)
 
 ![Arne Garborg to Kitty L. Kielland, 14. mars 1888, Brevs. 12](https://github.com/arockenberger/NorKorr/blob/master/_posts/skriftAG.jpg)
 

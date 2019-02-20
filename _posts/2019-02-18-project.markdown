@@ -13,6 +13,17 @@ Brevveksling 1885–1906. Edited by Anne Melgård, National Library of Norway, 2
 
 The correspondence has been included in the [CorrespSearch web service](https://correspsearch.net/). The [CMIF file](https://www.bokselskap.no/NorKorr/NBkilder_LettersALK-AG_1885-1906_CMIF.xml) we sent to CorrespSearch was made using metadata already stored in the XML file (TEI P5) containing the digital edition.
 
-<img src="/NorKorr/assets/skriftKLK.jpg" title="Kitty L. Kielland to Arne Garborg, undated, Ms.4° 4318:A">
-
-<img src="/NorKorr/assets/skriftAG.jpg" title="Arne Garborg to Kitty L. Kielland, 14. mars 1888, Brevs. 12">
+<div class="row">
+  <div class="column">
+   <figure>
+    <img src="/NorKorr/assets/skriftKLK.jpg" title="Kitty L. Kielland to Arne Garborg, undated, Ms.4° 4318:A">
+    <figcaption>Kitty L. Kielland to Arne Garborg, undated, Ms.4° 4318:A</figcaption>
+   </figure>
+  </div>
+  <div class="column">
+   <figure>
+    <img src="/NorKorr/assets/skriftAG.jpg" title="Arne Garborg to Kitty L. Kielland, 14. mars 1888, Brevs. 12">
+    <figcaption>Arne Garborg to Kitty L. Kielland, 14. mars 1888, Brevs. 12</figcaption>
+   </figure>
+  </div>
+</div>   

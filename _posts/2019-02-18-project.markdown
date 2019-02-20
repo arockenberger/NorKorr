@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kitty Kielland's Correspondence in CorrespSearch"
-date:   2019-02-18
+date:   2019-02-20
 author: Ellen Wiger
 categories: General
 ---
@@ -9,15 +9,11 @@ categories: General
 The latest addition to the NorKorr corpus is the correspondence of Kitty Kielland and Arne Garborg.
 
 
-Brevene mellom maleren Kitty L. Kielland (1843–1914) og forfatteren Arne Garborg (1851–1924) gir et unikt innblikk i en langvarig, skriftlig kontakt mellom to nære venner. De skrev jevnlig brev til hverandre, i hvert fall fram til Kielland sent i livet ble for syk. Dessverre er mange ikke bevart, særlig gjelder det Kiellands brev fra 1890-årene. Brevvekslingen som presenteres her er fra årene 1885–1906, i alt 48 fragmenter/brev/kladder. 18 av disse er skrevet av Kielland, av disse er 15 kladder. 30 er skrevet av Garborg.
+The Norwegian painter [Kitty L. Kielland](https://en.wikipedia.org/wiki/Kitty_Lange_Kielland) (1843–1914) and the Norwegian writer [Arne Garborg](https://en.wikipedia.org/wiki/Arne_Garborg) (1851–1924) first met in Paris in 1885. The letters between them give an unique insight into a lifelong friendship. They wrote letters to each other regularly, at least until Kielland late in life became too ill. Unfortunately, many are not preserved, especially in the case of Kielland's letters from the 1890s. The exchange of letters presented in the digital edition ([Kitty L. Kielland og Arne Garborg. 
+Brevveksling 1885–1906. Edited by Anne Melgård, National Library of Norway, 2018](https://www.bokselskap.no/boker/brevkiellandgarborg/tittelside)) is from the years 1885–1906, a total of 48 fragments/letters/drafts. 18 of these are written by Kielland, 30 is written by Garborg.
 
+![Kitty L. Kielland to Arne Garborg, undated, Ms.4° 4318:A](skriftKLK.jpg)
 
-Please translate!
+![Arne Garborg to Kitty L. Kielland, 14. mars 1888, Brevs. 12](skriftAG.jpg)
 
-Write a bit about creating the CMIF from the edition on bokselskap? Add links to the edition, too? Are there articles about Kielland and Garborg on Wikipedia (no/en)? Link to those as well?
-
-Article doesn't need to be longer than 300-500 words.
-
-Is there a digital copy of one of the letters we could use as illustration?
-
-:)
+The correspondnece has been included in the CorrespSearch web service. The [CMIF file](https://www.bokselskap.no/NorKorr/NBkilder_LettersALK-AG_1885-1906_CMIF.xml) we sent to [CorrespSearch](https://correspsearch.net/) was made using metadata already stored in the XML file (TEI P5) containing the digital edition.

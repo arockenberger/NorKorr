@@ -37,14 +37,8 @@ We use a Zotero group library for the collection and management of research lite
 
 ## Contact
 
-If you want to contribute with your collection of Norwegian letters, telegrams, postcards etc. please create a GitHub profile and file an Issue with your request! We do our entire communication and project management via GitHub.
+Do you want to cite this project? Look at [CITATION](CITATION.txt)
 
-Please be especially AWARE of the fact that the material in this repository is licensed under a Creative Commons Attribution 4.0 License. Make yourself familiar with the license's content before you upload files with text, code or images to the repo.
+Do you want to contribute to this project? Find out how to [CONTRIBUTING](CONTRIBUTING.txt)
 
-The NorKorr Team welcomes all contributions from all people! If you see there's something off with a file here or the code needs improvement or we made mistakes – please feel free to push to the repo!
-
-At the moment, we would especially welcome some help with the layout for our website. If you know of a minimalistic but aesthetically pleasing Jekyll theme, you may add it to our repo. A blog-like template would be best suited for our purposes.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA0NjIzMzksLTIwNDAzNjM2MTJdfQ
-==
--->
+Please be especially aware of the fact that the material in this repository is licensed under a [Creative Commons Attribution 4.0 License](LICENSE.txt). Make yourself familiar with the license's content before you download or suggest files with text, code or images from/to the repo.

@@ -14,8 +14,8 @@ And we even got an award :-)
 <div class="row">
   <div class="column">
    <figure>
-    <img src="/NorKorr/assets/BestPaperAward_small.jpg" title="Best Paper Award DHN2019">
-    <figcaption>Best Paper Award DHN2019</figcaption>
+    <img src="/NorKorr/assets/BestPaperAwardDHN2019.jpg" title="Best Paper Award DHN2019">
+    <figcaption></figcaption>
    </figure>
   </div>
 </div> 

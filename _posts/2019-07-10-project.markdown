@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "NorKorr at DHN2019"
+date:   2019-07-10
+author: Ellen Wiger
+categories: General
+---
+
+In March the NorKorr project participated at the [conference of the Digital Humanities in the Nordic Countries in Copenhagen, DHN2019](https://cst.dk/DHN2019/DHN2019.html).
+
+Hilde Bøe and Ellen Wiger represented the project and presented our poster "Norwegian Correspondences and Linked Open Data" at the poster session. We also submitted a paper, this is now available at [CEUR](http://ceur-ws.org/Vol-2364/33_paper.pdf).
+
+And we even got an award :-) 
+<div class="row">
+  <div class="column">
+   <figure>
+    <img src="/NorKorr/assets/BestPaperAward_small.jpg" title="Best Paper Award DHN2019">
+    <figcaption>Best Paper Award DHN2019</figcaption>
+   </figure>
+  </div>
+</div> 

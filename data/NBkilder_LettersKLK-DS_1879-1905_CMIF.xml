@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters between Kitty L. Kielland and Dagmar Skavlan 1879–1905</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket (National Library of Norway)</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersKLK-DS_1879-1905_CMIF.xml</idno>
+<date when="2019-07-09"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="b5bd2e0a-4c12-4c24-b534-8164760fad09">Kitty L. Kielland og Dagmar Skavlan: Brevveksling 1879-1905. Utgitt ved Anne Melg&#x00E5;rd, NB kilder 8:3, Nasjonalbiblioteket/bokselskap.no, Oslo 2019
+<ref target="https://www.bokselskap.no/boker/brevkiellandskavlan/tittelside">https://www.bokselskap.no/boker/brevkiellandskavlan/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/udatklkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1878-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/12jan1879klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1879-01-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/3nov1879klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1879-11-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/11jan1880klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1880-01-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/17april1881klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1881-04-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/nov1881klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1881-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/14jan1882klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2618425">K&#x00F8;benhavn</placeName>
+<date when="1882-01-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/11mars1882dsklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1882-03-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/14juli1882klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143779/ogna.html">Ogna (Rogaland)</placeName>
+<date when="1882-07-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/6jan1884klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1884-01-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/1887klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<date when="1887"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/11sept1889dsklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+<date when="1889-09-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/1890dsklk1">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+<date when="1890"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/1890dsklk2">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+<date when="1890"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/3aug1891klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3140128">Sandviken (Sandvika)</placeName>
+<date when="1891-08-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/30aug1892klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3140321/sandnes.html">Skj&#x00E6;veland ved Sandnes</placeName>
+<date when="1892-08-30"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/mai-juni1897dsklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+<date from="1897-05" to="1897-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/8aug1904klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3159857/brusand.html">Kvalbein ved Brusand (Rogaland)</placeName>
+<date when="1904-08-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/5jan1905klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1905-01-05"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#b5bd2e0a-4c12-4c24-b534-8164760fad09" ref="https://www.bokselskap.no/boker/brevkiellandskavlan/19feb1905klkds">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1905-02-19"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/310583444">Dagmar Skavlan</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

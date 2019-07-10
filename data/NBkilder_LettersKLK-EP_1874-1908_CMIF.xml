@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Index: Letters between Kitty L. Kielland and Eilif Peterssen 1874â€“1908</title>
+<editor>Ellen Nessheim Wiger <email>Ellen.Wiger@nb.no</email>
+</editor>
+</titleStmt>
+<publicationStmt>
+<publisher>
+<ref target="http://www.nb.no">Nasjonalbiblioteket (National Library of Norway)</ref>
+</publisher>
+<publisher>
+<ref target="http://www.bokselskap.no">bokselskap.no</ref>
+</publisher>
+<idno type="url">http://www.bokselskap.no/NorKorr/NBkilder_LettersKLK-EP_1874-1908_CMIF.xml</idno>
+<date when="2019-07-09"/>
+<availability>
+<licence target="https://creativecommons.org/licenses/by/4.0/">This file is licensed under the terms of the Creative-Commons-License CC-BY 4.0
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl type="online" xml:id="cabf7cae-985b-486e-8859-e925f05e5a81">Kitty L. Kielland og Eilif Peterssen: Brevveksling 1874-1908. Utgitt ved Anne Melg&#x00E5;rd, NB kilder 8:2, Nasjonalbiblioteket/bokselskap.no, Oslo 2019
+<ref target="https://www.bokselskap.no/boker/brevkiellandpeterssen/tittelside">https://www.bokselskap.no/boker/brevkiellandpeterssen/tittelside</ref>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/30jan1874klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2892794/karlsruhe.html">Karlsruhe</placeName>
+<date when="1874-01-30"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/9nov1874klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2892794/karlsruhe.html">Karlsruhe</placeName>
+<date when="1874-11-09"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/okt-nov1875klkep1">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date from="1875-10" to="1875-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/okt-nov1875klkep2">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date from="1875-10" to="1875-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/10jun1876klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3137115">Stavanger</placeName>
+<date when="1876-06-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/17jun1876epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1876-06-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/24eller31aug1876klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3161458/bjerkreim.html">Bjerkreim, Rogaland</placeName>
+<date from="1876-08-24" to="1876-08-31"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/3sept1876epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1876-09-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/1876klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1876"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/1876-77klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date from="1876" to="1877"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/16sept1877klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3137115">Stavanger</placeName>
+<date when="1877-08-16"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/29sept1877klk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1877-09-29"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/6okt1877klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3137115">Stavanger</placeName>
+<date when="1877-10-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/9okt1877epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1877-10-09"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/juli1878klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143779/ogna.html">Ogna (Rogaland)</placeName>
+<date when="1878-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/6aug1878epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/2867714">M&#x00FC;nchen</placeName>
+<date when="1878-08-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/7okt1878epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1878-10-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/19-25okt1878klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3137115">Stavanger</placeName>
+<date from="1878-10-19" to="1878-10-25"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/12mar1879klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1879-03-12"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/13april1879klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1879-04-13"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/11mai1879klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1879-05-11"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/17juli1879klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143779/ogna.html">Ogna (Rogaland)</placeName>
+<date when="1879-07-17"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/8feb1880">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1880-02-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/18feb1880klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1880-02-18"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/20okt1880epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3180630/capri.html">Capri</placeName>
+<date when="1880-10-20"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/21jan1881epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1881-01-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/23juli1883epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1883-07-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/23sept1883klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3159857/brusand.html">Kvalbein ved Brusand (Rogaland)</placeName>
+<date when="1883-09-23"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/1884klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<date when="1884"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/31mai1884epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3159857/brusand.html">Kvalbein ved Brusand (Rogaland)</placeName>
+<date when="1884-05-31"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/24juli1884epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<placeName ref="http://www.geonames.org/3134331/tonsberg.html">Sand&#x00F8;sund ved T&#x00F8;nsberg</placeName>
+<date when="1884-07-24"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/8jan1887klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1887-01-08"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/6feb1889klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1889-02-06"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/14mars1889klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+<date when="1889-03-14"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/7des1890epklk">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+<date when="1890-12-07"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/21feb1897klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1897-03-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/20mars1897klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3143244">Christiania</placeName>
+<date when="1897-03-21"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/2-3jan1905klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date from="1905-01-02" to="1905-01-03"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/10jan1905klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1905-01-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/27mars1905klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3169070">Roma</placeName>
+<date when="1905-03-27"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/29aug1906klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<placeName ref="http://www.geonames.org/3151594/hovringen.html">H&#x00F8;vringen (Oppland)</placeName>
+<date when="1906-08-29"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+<correspDesc source="#cabf7cae-985b-486e-8859-e925f05e5a81" ref="https://www.bokselskap.no/boker/brevkiellandpeterssen/10nov1908klkep">
+<correspAction type="sent">
+<persName ref="http://viaf.org/viaf/45705471">Kitty L. Kielland</persName>
+<date when="1908-11-10"/>
+</correspAction>
+<correspAction type="received">
+<persName ref="http://viaf.org/viaf/64749933/">Eilif Peterssen</persName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p/>
+</body>
+</text>
+</TEI>

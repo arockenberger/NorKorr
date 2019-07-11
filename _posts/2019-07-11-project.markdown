@@ -6,7 +6,7 @@ author: Ellen Wiger
 categories: General
 ---
 
-The latest addition to the NorKorr corpus is the letters between the painters Kitty L. Kielland and the Eilif Peterssen and between Kitty L. Kielland and her sister Dagmar Skavlan.
+The latest addition to the NorKorr corpus are the letters between the painters Kitty L. Kielland and the Eilif Peterssen and between Kitty L. Kielland and her sister Dagmar Skavlan.
 
 The Norwegian painters [Kitty L. Kielland](https://en.wikipedia.org/wiki/Kitty_Lange_Kielland) (1843–1914) and [Eilif Peterssen](https://en.wikipedia.org/wiki/Eilif_Peterssen) (1852–1928) first met in Germany in 1873. They were colleagues, but also close friends. They wrote letters to each other regularly, at least until Kielland late in life became too ill. Unfortunately, many are not preserved. The exchange of letters presented in the digital edition ([Kitty L. Kielland og Eilif Peterssen.
 Brevveksling 1874–1908. Edited by Anne Melgård, National Library of Norway, 2019](https://www.bokselskap.no/boker/brevkiellandpeterssen/tittelside)) is from the years 1874–1908, a total of 42 fragments/letters/drafts.

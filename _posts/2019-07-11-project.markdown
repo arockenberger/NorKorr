@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Two new correspondences"
+date:   2019-07-10
+author: Ellen Wiger
+categories: General
+---
+
+The latest addition to the NorKorr corpus is the letters between the painters Kitty L. Kielland and the Eilif Peterssen and between Kitty L. Kielland and her sister Dagmar Skavlan.
+
+The Norwegian painters [Kitty L. Kielland](https://en.wikipedia.org/wiki/Kitty_Lange_Kielland) (1843–1914) and [Eilif Peterssen](https://en.wikipedia.org/wiki/Eilif_Peterssen) (1852–1928) first met in Germany in 1873. They were colleagues, but also close friends. They wrote letters to each other regularly, at least until Kielland late in life became too ill. Unfortunately, many are not preserved. The exchange of letters presented in the digital edition ([Kitty L. Kielland og Eilif Peterssen.
+Brevveksling 1874–1908. Edited by Anne Melgård, National Library of Norway, 2019](https://www.bokselskap.no/boker/brevkiellandpeterssen/tittelside)) is from the years 1874–1908, a total of 42 fragments/letters/drafts.
+
+Kitty and her sister Dagmar were close. The wrote to each other regularly, but unfortunately many of the letters have been lost. The new digital edition ([Kitty L. Kielland og Dagmar Skavlan.
+Brevveksling 1879–1905. Edited by Anne Melgård, National Library of Norway, 2019](https://www.bokselskap.no/boker/brevkiellandskavlan/tittelside)) includes the 20 letters/fragments still preserved.
+
+The digital editions are available (in Norwegian) at [bokselskap.no](https://www.bokselskap.no/boker) and metadata from both have been included in the [CorrespSearch web service](https://correspsearch.net/).
+
+<div class="row">
+  <div class="column">
+   <figure>
+    <img src="/NorKorr/assets/Kielland_Peterssen.jpg" title="Kitty L. Kielland and Eilif Peterssen">
+    <figcaption>Kitty L. Kielland and Eilif Peterssen <br/>(The National Library of Norway)</figcaption>
+   </figure>
+  </div>
+  <div class="column">
+   <figure>
+    <img src="/NorKorr/assets/Kiellandfamilien_ringer.jpg" title="The Kielland siblings with partners">
+    <figcaption>The Kielland siblings with partners, ca 1885<br/> (Stavanger byarkiv)</figcaption>
+   </figure>
+  </div>
+</div>   

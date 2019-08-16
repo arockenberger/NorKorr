@@ -17,7 +17,7 @@ Ellen Wiger (National Library of Norway)
 
 Mette Witting (National Library of Norway)
 
-Annika Rockenberger (National Library of Norway)
+Annika Rockenberger (University of Oslo Library)
 
 Hilde Bøe (The Munch Museum)
 

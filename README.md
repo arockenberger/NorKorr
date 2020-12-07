@@ -1,4 +1,4 @@
-**The project has been moved to ([https://github.com/norkorr]). The repository ([https://github.com/arockenberger/NorKorr]) will not be updated anymore. It will be archived by the end of 2020.**
+**The project has been moved to ([https://github.com/norkorr]). The repository ([https://github.com/arockenberger/NorKorr]) will not be updated anymore. It has beenarchived on 2020-12-07.**
 
 # The Project
 ## About
